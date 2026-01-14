@@ -1,4 +1,4 @@
-indexname: pxgmeclient
+date: 0
 assets:
   -
     path: /assets/appbuild.krev
@@ -32780,5 +32780,5 @@ assets:
     path: /win32/pxgme32.exe
     hash: f19b26172c1559c120c9a6c0b87d7d7dd271c66f
     time: 1768411521
+indexname: pxgmeclient
 hash: 01b3823c9ce811efd4a7782e3994bced558afd71
-date: 1768387093
