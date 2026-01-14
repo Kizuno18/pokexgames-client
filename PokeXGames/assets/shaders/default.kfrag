@@ -1,0 +1,5 @@
+1¤ÿº{”¥¾14Ùvð†L<.SŸAó6’ùÖwõ±håVÕÅæi ’íÀ4ÉrŠe¼ž§<q…ù
+ main()
+{
+    gl_FragColor = texture2D(u_Tex0, v_TexCoord);
+}
