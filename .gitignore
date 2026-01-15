@@ -1,10 +1,12 @@
-PokeXGames/mydata/
-!PokeXGames/mydata/*.png
-!PokeXGames/mydata/*.jpg
-!PokeXGames/mydata/*.jpeg
+PokeXGames/mydata/logs
+PokeXGames/mydata/*.json
+PokeXGames/mydata/*.log
+PokeXGames/mydata/*.txt
+PokeXGames/mydata/settings.otml
 PokeXGames/*.tmp
 PokeXGames/*.log
 PokeXGames/*.dmp
+PokeXGames/*.json
 PokeXGames/*.txt
 PokeXGames/*.old
 PokeXGames/*.bk
