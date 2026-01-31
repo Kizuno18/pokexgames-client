@@ -2,8 +2,8 @@ indexname: pxgmeclient
 assets:
   -
     path: /assets/appbuild.krev
-    hash: 54103cad80c070d84134af03a260f0e4781e55dd
-    time: 1769691117
+    hash: 0e1c431adf68f7e819883be37be0a775604b9a2d
+    time: 1769887882
   -
     path: /assets/appicon.kpng
     hash: 1c32be9955d3f73f14f687796fbe635688d677ad
@@ -27922,12 +27922,12 @@ assets:
     time: 1761765683
   -
     path: /assets/modules/translation/translation.klua
-    hash: 1f0ca4453bead23ff8eb545ea18c03feae188810
-    time: 1769691117
+    hash: 5910b783e35dd982dec6bf61f3cd59209af1be51
+    time: 1769887882
   -
     path: /assets/modules/translation/translation.klua32
-    hash: 7e05f167fbfd80e4042966447debd61a91dfb6da
-    time: 1769691117
+    hash: 8fcb1b7641294859004a626b2978f052207876c5
+    time: 1769887882
   -
     path: /assets/modules/translation/translation.klui
     hash: fcb9d721961d352bdc95ccab707814923f5514a5
@@ -32754,12 +32754,12 @@ assets:
     time: 1761765688
   -
     path: /pxgme-linux
-    hash: 273414e7a5df19712bc001759101a25cc93b7704
-    time: 1769691118
+    hash: b972689d7604cf64708288eec3cc73f281629da3
+    time: 1769887883
   -
     path: /pxgme.exe
-    hash: cbc708def76f58321f4ca6809ea4fced5e3e96b0
-    time: 1769691119
+    hash: 7c6888f6834a2dfef2ab964df61c842effc1246c
+    time: 1769887883
   -
     path: /win32/d3dcompiler_47.dll
     hash: 76012f31db8618624bc8b563698b2669365e49cb
@@ -32774,7 +32774,7 @@ assets:
     time: 1761765689
   -
     path: /win32/pxgme32.exe
-    hash: 93703be35eff66c0a8c083f1dc28b39de6c13178
-    time: 1769691120
-hash: 632afcae6a38f3622aec5e453f40156dc919aa12
-date: 1769683135
+    hash: 1471b2084ca754d386070797581c120f711830be
+    time: 1769887884
+hash: 0e6046184542c80ffdd08800cf2bc3521529434c
+date: 1769855505
