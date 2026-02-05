@@ -2,8 +2,8 @@ indexname: pxgmeclient
 assets:
   -
     path: /assets/appbuild.krev
-    hash: 0e1c431adf68f7e819883be37be0a775604b9a2d
-    time: 1769887882
+    hash: 4d9a26e8a5a6b871e5d569e501f8ac9d924dbe4d
+    time: 1770333041
   -
     path: /assets/appicon.kpng
     hash: 1c32be9955d3f73f14f687796fbe635688d677ad
@@ -16002,8 +16002,8 @@ assets:
     time: 1761765681
   -
     path: /assets/images/shaders/wpeak.kpng
-    hash: 74bddb66a639987caac6112c0d8c4111db4ff761
-    time: 1761765681
+    hash: b880cab170a26c3ea103bec6e5208819d796e3bb
+    time: 1770333041
   -
     path: /assets/images/skins/agatha.kpng
     hash: 22d78ffc67e9909492b503161f2d284515b8d06b
@@ -18002,8 +18002,8 @@ assets:
     time: 1769691117
   -
     path: /assets/modules/diagnostic/diagnostic.klui
-    hash: cdd2ab100651256045906342108471aded905b34
-    time: 1769691117
+    hash: c806e8fec49b1a3322c71ad6341877f4b65a0921
+    time: 1770333041
   -
     path: /assets/modules/diagnostic/profiler.klui
     hash: 417cce6dc2e92ae0a264df4aa1ba7348acfa048a
@@ -32754,12 +32754,12 @@ assets:
     time: 1761765688
   -
     path: /pxgme-linux
-    hash: b972689d7604cf64708288eec3cc73f281629da3
-    time: 1769887883
+    hash: 1890328c0bc7464828d7d89236c76755514d171b
+    time: 1770333041
   -
     path: /pxgme.exe
-    hash: 7c6888f6834a2dfef2ab964df61c842effc1246c
-    time: 1769887883
+    hash: 8cee24f06906797b61a7cad3533cf388b1c33dfe
+    time: 1770333042
   -
     path: /win32/d3dcompiler_47.dll
     hash: 76012f31db8618624bc8b563698b2669365e49cb
@@ -32774,7 +32774,7 @@ assets:
     time: 1761765689
   -
     path: /win32/pxgme32.exe
-    hash: 1471b2084ca754d386070797581c120f711830be
-    time: 1769887884
-hash: 0e6046184542c80ffdd08800cf2bc3521529434c
-date: 1769855505
+    hash: 8b8f5e84a3be0dcd09bdbd6144d7cd7ebdd1e856
+    time: 1770333042
+hash: cb3b1260c56a4508dc4875e3cc2bd869bb2f0b4e
+date: 1770201527
