@@ -2,8 +2,8 @@ indexname: pxgmeclient
 assets:
   -
     path: /assets/appbuild.krev
-    hash: 5ae82bf8e59c54387d8e688ec83aa59da029b88a
-    time: 1770402281
+    hash: 14b5ed2fca8d07128895a49934cd724d0d129c4e
+    time: 1770566386
   -
     path: /assets/appicon.kpng
     hash: 1c32be9955d3f73f14f687796fbe635688d677ad
@@ -13573,6 +13573,10 @@ assets:
     hash: 79a87e9854ac522d1f781f4fe639247855194d8c
     time: 1770402281
   -
+    path: /assets/images/pokemons/701.2.kpng
+    hash: 1045e33e6df266062fdf637dcb8cd6b1e75059be
+    time: 1770566386
+  -
     path: /assets/images/pokemons/701.kpng
     hash: 97f9175efa5eaac2e5b3096f266706ed556b6ece
     time: 1761765681
@@ -23782,8 +23786,8 @@ assets:
     time: 1764373732
   -
     path: /assets/modules/game_npctrade/npctrade.klui
-    hash: 17a065df783d40c13b66b22a3c3bae390bd32e5c
-    time: 1761765682
+    hash: 90c3fa64aacde5974fcfd516edc74e4eca774f98
+    time: 1770566386
   -
     path: /assets/modules/game_npctrade/quicksell.klui
     hash: bf89683be62498ef7cf1cfe7c42be7fedfdb1477
@@ -27966,12 +27970,12 @@ assets:
     time: 1761765683
   -
     path: /assets/modules/translation/translation.klua
-    hash: d1f1257775ae94e4e3b1e402d2c680a75dcb6600
-    time: 1770402281
+    hash: b6fa8bbde666eeb118db4b9ad9602fb22d4ce553
+    time: 1770566386
   -
     path: /assets/modules/translation/translation.klua32
-    hash: 06080288e0814eec9ff3e218d26be8de5ac03108
-    time: 1770402281
+    hash: 812b26c0b5957f46f52c3f4f13335c2e685c0b26
+    time: 1770566386
   -
     path: /assets/modules/translation/translation.klui
     hash: fcb9d721961d352bdc95ccab707814923f5514a5
@@ -27982,8 +27986,8 @@ assets:
     time: 1761765683
   -
     path: /assets/modules/translation/widgets/errors.klui
-    hash: 7912d05cb2e557f593228c10754dcd93283db009
-    time: 1761765683
+    hash: 49c3babdef26365a8a1d2251c90b7ca114ed4b5b
+    time: 1770566386
   -
     path: /assets/modules/translation/widgets/find.klui
     hash: b8599500135879f514c82d7ba6383b72bf98cf0d
@@ -28006,8 +28010,8 @@ assets:
     time: 1761765683
   -
     path: /assets/modules/translation/widgets/ignored.klui
-    hash: 80a7ecfe13807695d68fd9dfa9c47ab6bc29e779
-    time: 1767790587
+    hash: 4ce312f7a7d989fbdac2bf814debb3745295991a
+    time: 1770566386
   -
     path: /assets/modules/translation/widgets/phrases.klui
     hash: 7cee945bba7a18ad439347ac7188d438fa8d7720
@@ -32622,12 +32626,12 @@ assets:
     time: 1761765686
   -
     path: /assets/things/things.kdat
-    hash: 60e74a577e5dae3bd7b02854465335ef98f6b779
-    time: 1770402282
+    hash: 7cfc2f5bf84ad702a98ade08372a243c4b7d8d86
+    time: 1770566386
   -
     path: /assets/things/things.kidx
-    hash: 1e1ae0d5d8a3a96dbf9f647f3883d5a8197c5220
-    time: 1770402282
+    hash: ba737d0ee88dd1be7c2717e472b61bd91c5c5eb1
+    time: 1770566386
   -
     path: /assets/things/things.klua
     hash: 69f92e199ea35c0cd0e1428bc961e98e4e90a44a
@@ -32762,8 +32766,8 @@ assets:
     time: 1770402283
   -
     path: /assets/things/things37.spr
-    hash: 16c9f30f705762115b389363590ff9df7f70ce83
-    time: 1770402283
+    hash: 1952b2b56417cb906eeb7f69bcd91ff502c1068a
+    time: 1770566386
   -
     path: /assets/things/things4.spr
     hash: fa0006b0450ce0e7c9135d2a2fc0dec05b932d6c
@@ -32802,12 +32806,12 @@ assets:
     time: 1761765688
   -
     path: /pxgme-linux
-    hash: 1d897c983ea37cf9571ae222e41f0386ee123f48
-    time: 1770402284
+    hash: b246cb62752aa8fd7c29961f2b7ae9488a54b98c
+    time: 1770566387
   -
     path: /pxgme.exe
-    hash: 6384d44fd941f1a0c1239815e5d7c17742ff5395
-    time: 1770402284
+    hash: 3dc51befcd6a72c07c9b6894329dee742f8c90cb
+    time: 1770566387
   -
     path: /win32/d3dcompiler_47.dll
     hash: 76012f31db8618624bc8b563698b2669365e49cb
@@ -32822,7 +32826,7 @@ assets:
     time: 1761765689
   -
     path: /win32/pxgme32.exe
-    hash: 6cde9c0a3ac7f978442c1b15141a5f477d59ec41
-    time: 1770402285
-hash: d12d2d91cab59855a697a4b6e3c32eee28bd2735
-date: 1770382581
+    hash: 2a71d56ef4d6a22654e4e9d3e8170d5ba4bacd12
+    time: 1770566388
+hash: c821b70a4344af5f02f142fb6090f2b8b1a37814
+date: 1770546674
