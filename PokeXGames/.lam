@@ -2,8 +2,8 @@ indexname: pxgmeclient
 assets:
   -
     path: /assets/appbuild.krev
-    hash: 4ac8706abbebcfa1cd8fbbd519e303bc23940e43
-    time: 1773239751
+    hash: a2b06917986c8318ea01ed6bd911bc3bb3304f53
+    time: 1773572913
   -
     path: /assets/appicon.kpng
     hash: 1c32be9955d3f73f14f687796fbe635688d677ad
@@ -18086,12 +18086,12 @@ assets:
     time: 1769691117
   -
     path: /assets/locales/context.klua
-    hash: 70d37be1710a2dc62806f91872d3d00f3f6c31f1
-    time: 1773239751
+    hash: 604333dafdc73f7b0c8f27da3f50f20c9d7fd926
+    time: 1773572913
   -
     path: /assets/locales/context.klua32
-    hash: c8de5f02dde70855310e6176ef5def3f9be37c69
-    time: 1773239751
+    hash: 3be5597b13f9989f69fd7e35c47442bf484d483b
+    time: 1773572913
   -
     path: /assets/locales/en-us.klua
     hash: d021fc507b4577d7972db2224943163ab1b91a7f
@@ -26962,12 +26962,12 @@ assets:
     time: 1761765683
   -
     path: /assets/modules/gamelib/const.klua
-    hash: 614218536d1a120553c86c1b5b8ef6e0d64ed465
-    time: 1764872909
+    hash: 10428a81ea13e1530bf4415fe0bdb7a50494a947
+    time: 1773572913
   -
     path: /assets/modules/gamelib/const.klua32
-    hash: 64350a804f1775d5158289e09d601982f726f3a1
-    time: 1764872909
+    hash: 4f626793c6d4dc215d8c12ef280d8fb0d7f0f3c1
+    time: 1773572913
   -
     path: /assets/modules/gamelib/creature.klua
     hash: aacf25aca52e1c4a81d5ceadb88e73eb9acd4d6a
@@ -27514,16 +27514,16 @@ assets:
     time: 1761765683
   -
     path: /assets/modules/menu_createcharacter/menu_createcharacter.klua
-    hash: b67b19a87c310863c81911604a8bf667628705e0
-    time: 1763047717
+    hash: 894efd60e897356b473dac2b44f1c1c1c650ed62
+    time: 1773572913
   -
     path: /assets/modules/menu_createcharacter/menu_createcharacter.klua32
-    hash: 22127a415033eedc6eb08a69019282ec9582a165
-    time: 1763047717
+    hash: 2dee67d7885f7850d3fe61b888c383addc415c9a
+    time: 1773572913
   -
     path: /assets/modules/menu_createcharacter/menu_createcharacter.klui
-    hash: db74a42831740ad9de74a897704e9e2d02ae546b
-    time: 1761765683
+    hash: 49d78360802a1dad01304f044ca7543b8d67e5e1
+    time: 1773572913
   -
     path: /assets/modules/menu_game/const.klua
     hash: ed58b4f0b077705bddac18d646b5e2c0e121cd2b
@@ -33086,12 +33086,12 @@ assets:
     time: 1761765688
   -
     path: /pxgme-linux
-    hash: 48a1c88f22d6b4c4e72279a39393b351657e8e01
-    time: 1772807196
+    hash: aeac244d34359ce976401874426a8bbeaf4bccd3
+    time: 1773572914
   -
     path: /pxgme.exe
-    hash: 4b18eb8cc0db413b34c7976347f133333716c2a8
-    time: 1773239752
+    hash: 65b77554567001e27ecc6de321812e7d46622e03
+    time: 1773572914
   -
     path: /win32/d3dcompiler_47.dll
     hash: 76012f31db8618624bc8b563698b2669365e49cb
@@ -33106,7 +33106,7 @@ assets:
     time: 1761765689
   -
     path: /win32/pxgme32.exe
-    hash: 9e092c84bb765b026bf1903f515786fc7e16a7e8
-    time: 1773239752
-hash: 7e1288762976933a2898cf112cab6e02846c7f81
-date: 1773225533
+    hash: ad4faccacb4fd4740d0f32ecb86a9b4d1b3424a2
+    time: 1773572914
+hash: 4480acdf1021974bd30353eaaccaf2ff62803cfc
+date: 1773397993
