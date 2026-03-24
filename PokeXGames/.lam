@@ -2,8 +2,8 @@ indexname: pxgmeclient
 assets:
   -
     path: /assets/appbuild.krev
-    hash: 9a099a0b4d3561aba9c934b7161364ce5f9b58af
-    time: 1773949595
+    hash: bf092e88e0a80e3b4fc5ed0743b6a26364daad22
+    time: 1774357173
   -
     path: /assets/appicon.kpng
     hash: 1c32be9955d3f73f14f687796fbe635688d677ad
@@ -18086,12 +18086,12 @@ assets:
     time: 1769691117
   -
     path: /assets/locales/context.klua
-    hash: 690a6c568395e33f3b48bc4a79f1dc4adad663ff
-    time: 1773949595
+    hash: ef99ed056ebbd0f46f8dbdc33ceb781845e7b3b3
+    time: 1774357173
   -
     path: /assets/locales/context.klua32
-    hash: 8a842515e6105685cd5d6075dcb47709857c8daa
-    time: 1773949595
+    hash: 2dbbc37e92a2f61353966d275ebecd9f7212f082
+    time: 1774357173
   -
     path: /assets/locales/en-us.klua
     hash: d021fc507b4577d7972db2224943163ab1b91a7f
@@ -30194,8 +30194,8 @@ assets:
     time: 1761765685
   -
     path: /assets/shaders/glsl/articles/progress-circle.kfrag
-    hash: 53a306748c1c11785310ec1e3a0445dfe6b63aaf
-    time: 1761765685
+    hash: c6c2d193f0595c04effb9896109772aaa2703cce
+    time: 1774357173
   -
     path: /assets/shaders/glsl/articles/updater.kfrag
     hash: 56e548013668deaa9c77bb8f0dc2852a672b7f0d
@@ -30502,8 +30502,8 @@ assets:
     time: 1761765685
   -
     path: /assets/shaders/hlsl/articles/progress-circle.kfrag
-    hash: a1db39f55f56db8a1804b2ddb94a3b269f321ac0
-    time: 1761765685
+    hash: d3e67f919f4a66c11edd78c35182874e0ac3dd9d
+    time: 1774357173
   -
     path: /assets/shaders/hlsl/articles/updater.kfrag
     hash: 3a8611de40755ad3433805097ef6b8995464ae68
@@ -32906,12 +32906,12 @@ assets:
     time: 1761765686
   -
     path: /assets/things/things.kdat
-    hash: 9f0dada85ebb392a1219879fd33d0aad7365a591
-    time: 1773838649
+    hash: 0502bf9c708f264898ca262233e94397b691fb2f
+    time: 1774357174
   -
     path: /assets/things/things.kidx
-    hash: 3f47690604e45886f87a14c875fd00f0ace4e725
-    time: 1773838649
+    hash: a6f6c3cd9648cb81282af0255a1fae0846a889e6
+    time: 1774357174
   -
     path: /assets/things/things.klua
     hash: 69f92e199ea35c0cd0e1428bc961e98e4e90a44a
@@ -32922,36 +32922,36 @@ assets:
     time: 1761765686
   -
     path: /assets/things/things0.spr
-    hash: 170570d54ce86344b4113949f70446419cbc9a0e
-    time: 1771010900
+    hash: 81ec22813ef44397a9805b5598fa025ef3c1cd4f
+    time: 1774357174
   -
     path: /assets/things/things1.spr
-    hash: 59862b4f9af10caa409ccbbc38b0ad6b4e8807aa
-    time: 1773838649
+    hash: 34b2573bafb3f1fa4da283b9640697e6e0bf0702
+    time: 1774357174
   -
     path: /assets/things/things10.spr
     hash: ce4dfcb2101d03d750ac34429ee86b355e6de653
     time: 1771010900
   -
     path: /assets/things/things11.spr
-    hash: ca53ba5350e9c1ade29ce82a6d7914494f921fd2
-    time: 1773838649
+    hash: f00a62ec21a575ff9309ef1960af704db9887c7c
+    time: 1774357174
   -
     path: /assets/things/things12.spr
-    hash: d1ddaa15f5739f3088b85cb221b6607a16c9b45c
-    time: 1772030872
+    hash: f58641a1e68745dfef84638d6a29245e115632a2
+    time: 1774357174
   -
     path: /assets/things/things13.spr
-    hash: ae8f0b701fe81ec0b4840b2687c0905189ab519a
-    time: 1761765686
+    hash: d11caf469c946943e80249ebb6f87c207247659a
+    time: 1774357174
   -
     path: /assets/things/things14.spr
-    hash: 5fd258b29bea4d619b59dbf89b8ad4617fee19a5
-    time: 1771010901
+    hash: c1727b1c9f2c032d3e1239a1b372d177c3cf33aa
+    time: 1774357175
   -
     path: /assets/things/things15.spr
-    hash: dec1ed05382495fc9b040494a0bbd8d78ce43f3b
-    time: 1772030872
+    hash: 475436f185c32b861ba91ab3ecb6dd4d39a37f6b
+    time: 1774357175
   -
     path: /assets/things/things16.spr
     hash: 7b6027b5ebd85269960501957bb1f7276b72be81
@@ -32962,48 +32962,48 @@ assets:
     time: 1771010901
   -
     path: /assets/things/things18.spr
-    hash: e649201d32f923be46701085f5c3977bd1d88e85
-    time: 1761765686
+    hash: 108b016b5ccd700906f8585b4131a51ba8bd487c
+    time: 1774357175
   -
     path: /assets/things/things19.spr
     hash: 9bd5b85dfd8d26c0ac0fbe84460657d19adffed5
     time: 1773838649
   -
     path: /assets/things/things2.spr
-    hash: e1dfe6d17dac3525ab12e71c3a05e11aaaec5957
-    time: 1771010901
+    hash: 248808b0a725a8217017477f1e3864fcd90b6809
+    time: 1774357175
   -
     path: /assets/things/things20.spr
-    hash: abcca7bd9b92e268ac9783ba4b790f3fd8b62ea4
-    time: 1770402282
+    hash: 5abd485b438fde969421ae7f5d1d3c1ca0adb456
+    time: 1774357175
   -
     path: /assets/things/things21.spr
-    hash: 8253520d7d27c63d9e8811e247fa1f1655c6fead
-    time: 1771010901
+    hash: 6e0f7a2ff73360cecb95e8d85c5de69161134a9f
+    time: 1774357175
   -
     path: /assets/things/things22.spr
     hash: f8d4ed6c3350b877237aa4c0a2a04b2e6f660d52
     time: 1770402283
   -
     path: /assets/things/things23.spr
-    hash: f23b82ef511c6a23a571674f4fd9368d9f0d170e
-    time: 1771010901
+    hash: db98719776df82cdcb0e1b05fc8dba3c3395bfc2
+    time: 1774357175
   -
     path: /assets/things/things24.spr
-    hash: fd7042bb27343d0805f54a4ce90cb40c2c0b5740
-    time: 1761765687
+    hash: 0707595b776a9bf9f44d7fb5c50441fad478b2c6
+    time: 1774357175
   -
     path: /assets/things/things25.spr
-    hash: a338e0eb12cd3aea5d9244faca4deb54f6dac7d7
-    time: 1771010902
+    hash: 3d7bd6dabad4cb1624401334a3f1075e7b5c7204
+    time: 1774357175
   -
     path: /assets/things/things26.spr
-    hash: 06d9bb441a8913bb5a3019a16fbfb6cc2235abd6
-    time: 1771010902
+    hash: 0e27726568bdc23b9d28a30a9f12ffe09dbe994b
+    time: 1774357176
   -
     path: /assets/things/things27.spr
-    hash: b774cedaf469ea22361f37279746a7d745f1f745
-    time: 1773838650
+    hash: af54d670a00c506d373886035773383ac101f737
+    time: 1774357176
   -
     path: /assets/things/things28.spr
     hash: fdc8b4b7484104e8d70a4e41ea98011c7efee92c
@@ -33014,12 +33014,12 @@ assets:
     time: 1761765687
   -
     path: /assets/things/things3.spr
-    hash: 885a696f6822a40d4d10fed7a697ee36593ddab0
-    time: 1773838650
+    hash: 341c96a190bd4b0d008bcd46e88c3d3ca98fe2e0
+    time: 1774357176
   -
     path: /assets/things/things30.spr
-    hash: 6e997e386e837ee7e4a59041d0ef3d4d88967e7e
-    time: 1771010902
+    hash: c92a952d5c122193f95ebc6b6b6e73bd15cea7d3
+    time: 1774357176
   -
     path: /assets/things/things31.spr
     hash: e82f9273a0d7899be1f379e78766744f9630fa72
@@ -33034,20 +33034,20 @@ assets:
     time: 1771010902
   -
     path: /assets/things/things34.spr
-    hash: 25e791bcd17ee1ce87dfc193b83673effa4db1fe
-    time: 1770402283
+    hash: b5cb876bf12f5366e977824cfc57fa605c2bfa6e
+    time: 1774357176
   -
     path: /assets/things/things35.spr
-    hash: 124d17a5bf77788fd8b2269668080abfeaafb7fd
-    time: 1772030872
+    hash: 44690a7adfde224558e974c07f77195723e9bed1
+    time: 1774357176
   -
     path: /assets/things/things36.spr
     hash: 2c703b7c000b4c8097d20a8ce31be21b660fcfb5
     time: 1771010903
   -
     path: /assets/things/things37.spr
-    hash: 46ae5a0ca6b21244dfd8ea2f7df1e514682fe5e5
-    time: 1773838650
+    hash: 90a0514b7620eadcbb790e644ae4d7e0a85bf7fb
+    time: 1774357176
   -
     path: /assets/things/things4.spr
     hash: 7c239b464978c94d4a73257175f84a6f227f5b1d
@@ -33066,8 +33066,8 @@ assets:
     time: 1773239752
   -
     path: /assets/things/things8.spr
-    hash: afdce7bf4ab92c01207996dee25e0b7de5227b30
-    time: 1773838650
+    hash: fc506d7ef51f79b47feacc4303804df3d16f1755
+    time: 1774357176
   -
     path: /assets/things/things9.spr
     hash: d7a28fcbb612772b146c413d569856a4c3ba55a7
@@ -33086,12 +33086,12 @@ assets:
     time: 1761765688
   -
     path: /pxgme-linux
-    hash: 70a3574c34d977d7f98e7d5c25937b0af0e73edb
-    time: 1773949595
+    hash: de6407eb7fbdd4d3c2a0df58fd2b7c23bb12fb0d
+    time: 1774357177
   -
     path: /pxgme.exe
-    hash: 20ddb04dd7f5978ad2ce937c6141953e6c9bb89a
-    time: 1773949596
+    hash: bde6bf2f7d8a8070adbb1f46da1d9b5eb233e6ed
+    time: 1774357177
   -
     path: /win32/d3dcompiler_47.dll
     hash: 76012f31db8618624bc8b563698b2669365e49cb
@@ -33106,7 +33106,7 @@ assets:
     time: 1761765689
   -
     path: /win32/pxgme32.exe
-    hash: 4d18853ddf16e28fe3b5674575487daa8f448741
-    time: 1773949596
-hash: 641bb61bd6b696eb763c6664b4aab95af8e2bdea
-date: 1773916355
+    hash: 64ce2a8bf502c4d1769f4c406c0f20626c88bf53
+    time: 1774357178
+hash: 72056f50343d6680537660ff5c17962af756a0d3
+date: 1774349999
