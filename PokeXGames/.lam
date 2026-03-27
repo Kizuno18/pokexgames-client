@@ -2,8 +2,8 @@ indexname: pxgmeclient
 assets:
   -
     path: /assets/appbuild.krev
-    hash: 5337e862415c9c58d4a29a86f6bfdd6621662954
-    time: 1774548321
+    hash: 1b6cce9e6748a8ec6378d209fb9a3dc9962aee1d
+    time: 1774618909
   -
     path: /assets/appicon.kpng
     hash: 1c32be9955d3f73f14f687796fbe635688d677ad
@@ -1024,6 +1024,14 @@ assets:
     path: /assets/images/avatars/anniversary2026_06.kpng
     hash: 70fdaf3c561620ec5c345ca0effa3204549aeda6
     time: 1771010898
+  -
+    path: /assets/images/avatars/arcade2026_01.kpng
+    hash: 5b9db8cffa13f5aeb4cd9189b013642ceba32671
+    time: 1774618909
+  -
+    path: /assets/images/avatars/arcade2026_02.kpng
+    hash: d37543ea505f30899c7697865a40837d6ee7e1f1
+    time: 1774618909
   -
     path: /assets/images/avatars/c1.kpng
     hash: ee8f9dacfd954a3c1b197cb9ecc2a607d84c2e71
@@ -3320,6 +3328,14 @@ assets:
     path: /assets/images/avatars/rounded/anniversary2026_06.kpng
     hash: fd08f98d2d1722b1266cb2f8a98ae6c85b3633f5
     time: 1772030872
+  -
+    path: /assets/images/avatars/rounded/arcade2026_01.kpng
+    hash: b48c9ed3271f3b55bb854d00c4b1594da80d60da
+    time: 1774618909
+  -
+    path: /assets/images/avatars/rounded/arcade2026_02.kpng
+    hash: 19e92674926e4ff6a084ed53d5d8b79f9dd6a021
+    time: 1774618909
   -
     path: /assets/images/avatars/rounded/c1.kpng
     hash: b9c94466435511cbcbf1192f75d5a7df7de706a7
@@ -9501,6 +9517,14 @@ assets:
     hash: cfa6e1337bdaa5e1c88c7936ce203f6c6d22de27
     time: 1761765681
   -
+    path: /assets/images/pokemons/10051.kpng
+    hash: 44062d0c6cafadd593e01a13f82fa820f8e02f23
+    time: 1774618909
+  -
+    path: /assets/images/pokemons/10052.kpng
+    hash: 06039c29a08a214ac47b16b7fdd929b6d3797cf0
+    time: 1774618909
+  -
     path: /assets/images/pokemons/1006.kpng
     hash: 2e98afbdc7d554799c463c851aea18ac4c75af54
     time: 1761765681
@@ -11165,6 +11189,10 @@ assets:
     hash: 7978d797e54ac0fedcc17634c8e70d41b8f50eda
     time: 1761765681
   -
+    path: /assets/images/pokemons/254.4.kpng
+    hash: 3a9d7f4d7b13a26413da2a211bcfe1a39d833adb
+    time: 1774618909
+  -
     path: /assets/images/pokemons/254.kpng
     hash: 57030f3bc464336f49ebee359e70867fb2cc9b39
     time: 1761765681
@@ -12070,8 +12098,8 @@ assets:
     time: 1761765681
   -
     path: /assets/images/pokemons/402.1.kpng
-    hash: 6eeb2ee1e9e467202981fd5d1fa43ced5d04e53a
-    time: 1761765681
+    hash: 528d1c3a0093047a42862a7c61b423282c69c1a9
+    time: 1774618909
   -
     path: /assets/images/pokemons/402.kpng
     hash: c074c242bf7e69d3332dd0aa1e76e41839e9f34b
@@ -13080,6 +13108,10 @@ assets:
     path: /assets/images/pokemons/576.1.kpng
     hash: 89d372aec7089b5a14bf1337175352f01ca2fc6d
     time: 1761765681
+  -
+    path: /assets/images/pokemons/576.2.kpng
+    hash: c3b602fc0b146062de9a7d2779bc45cd807b2d1d
+    time: 1774618909
   -
     path: /assets/images/pokemons/576.kpng
     hash: f73d17f70590141863feb998ec30fe4a2ed964b8
@@ -18086,12 +18118,12 @@ assets:
     time: 1769691117
   -
     path: /assets/locales/context.klua
-    hash: 4efff1e0a00e6ce4b57ae78702c9cd84a9f5a749
-    time: 1774548321
+    hash: 239ed1f8f961f918eff3dd73e3abcd682d5c42ca
+    time: 1774618909
   -
     path: /assets/locales/context.klua32
-    hash: 32e04562d431e6e8a2716a45357789a7414c9abd
-    time: 1774548321
+    hash: df9ba9ac742fdf6ca7b2eaa91b060ae2de3feb56
+    time: 1774618909
   -
     path: /assets/locales/en-us.klua
     hash: d021fc507b4577d7972db2224943163ab1b91a7f
@@ -20553,33 +20585,37 @@ assets:
     hash: 7d06508a9c0232bb32f674ea34c7a8ddecb8a62f
     time: 1761765682
   -
-    path: /assets/modules/game_hints/images/bootstrap_bowser_blastoise_bubbles.kpng
-    hash: 007ea7327cb43f135503fabb0a06a0d9b292ba27
-    time: 1761765682
+    path: /assets/modules/game_hints/images/bootstrap_bowser_blastoise1.kpng
+    hash: 3122bae966db327f3c1f7cce755c669fe16ffecb
+    time: 1774618909
   -
-    path: /assets/modules/game_hints/images/bootstrap_bowser_blastoise_hydropump.kpng
-    hash: 4c04c03f5f37ecba9790b82bf875a010afb09ef2
-    time: 1761765682
+    path: /assets/modules/game_hints/images/bootstrap_bowser_blastoise2.kpng
+    hash: e761c60891fd922d8c6bbe60690f68d1a6806f84
+    time: 1774618909
+  -
+    path: /assets/modules/game_hints/images/bootstrap_bowser_blastoise3.kpng
+    hash: 08fe355499b7967c2238242930718d9adb580dca
+    time: 1774618909
+  -
+    path: /assets/modules/game_hints/images/bootstrap_bowser_blastoise4.kpng
+    hash: 981dcb0c972fc7fb8b411e76df6a689b1098de89
+    time: 1774618909
+  -
+    path: /assets/modules/game_hints/images/bootstrap_bowser_blastoise5.kpng
+    hash: a3306a9805071c00fb3c1a8b445cd06364b839c2
+    time: 1774618909
+  -
+    path: /assets/modules/game_hints/images/bootstrap_bowser_blastoise6.kpng
+    hash: b1cce8ffc2744f77001b4c636290edb5cc03a1ff
+    time: 1774618909
   -
     path: /assets/modules/game_hints/images/bootstrap_bowser_blastoise_pipe.kpng
     hash: 88c3c7f9000ef30b744b6e5ff554aa7bb49a6171
     time: 1761765682
   -
-    path: /assets/modules/game_hints/images/bootstrap_bowser_blastoise_rain_dance.kpng
-    hash: 4caa25cbd6c22f52ea5b36abd3232f340336e0cd
-    time: 1761765682
-  -
-    path: /assets/modules/game_hints/images/bootstrap_bowser_blastoise_shell_smash.kpng
-    hash: ec8f8bfa31dd2e65dd6ea6c6d10cf36622314290
-    time: 1761765682
-  -
-    path: /assets/modules/game_hints/images/bootstrap_bowser_blastoise_skull_dash.kpng
-    hash: 02a07b4dd16630cf07a08ac2c485b576b5ac3422
-    time: 1761765682
-  -
-    path: /assets/modules/game_hints/images/bootstrap_bowser_blastoise_water_ball.kpng
-    hash: 64a29d974333f618809c50648d1972300a505cec
-    time: 1761765682
+    path: /assets/modules/game_hints/images/bootstrap_fossil_crypt.kpng
+    hash: ad672fc093afdf039faa6c7cfa5d7e3efee0912e
+    time: 1774618909
   -
     path: /assets/modules/game_hints/images/bootstrap_labirinto_panico.kpng
     hash: cb47209866992dffbb96b43c49021d04bc2889e5
@@ -20660,6 +20696,10 @@ assets:
     path: /assets/modules/game_hints/images/bootstrap_surf_trap_whirlpool.kpng
     hash: 4c0c0669ed2e91e7db5d864667b99749bdc13e84
     time: 1761765682
+  -
+    path: /assets/modules/game_hints/images/bootstrap_tabletopRPG.kpng
+    hash: 5d9abb12ddcaeb0d9e5820e780f972c729bc551b
+    time: 1774618909
   -
     path: /assets/modules/game_hints/images/bossBulbasaur15th.kpng
     hash: 89c0f220391f6e6e9300e311dbf400fad21dbba5
@@ -21677,6 +21717,10 @@ assets:
     hash: c84738ac1c97953d7184cc98ca545ca31eae19f7
     time: 1761765682
   -
+    path: /assets/modules/game_join_dungeon/images/fossil_crypt_trial.kpng
+    hash: 04b6e43e2068218d340d51d7ccde1c1b6453f35b
+    time: 1774618909
+  -
     path: /assets/modules/game_join_dungeon/images/ghost.kpng
     hash: d7e5b6791b735ee69fa518c0204fffdafd1da908
     time: 1761765682
@@ -22029,6 +22073,10 @@ assets:
     hash: 4424c6ed36185e4329373ea63288dff524b08d45
     time: 1761765682
   -
+    path: /assets/modules/game_join_dungeon/images/tabletopRPG.kpng
+    hash: f20fc9f4166f3609376bf4295ff8df2db4c0f1df
+    time: 1774618909
+  -
     path: /assets/modules/game_join_dungeon/images/terror/gama.kpng
     hash: 3fd68d52ba9ceedf79904e386a6feae8465cce9e
     time: 1761765682
@@ -22180,6 +22228,10 @@ assets:
     path: /assets/modules/game_login_rewards/const.klua32
     hash: 8680f10ea848816d2696dc720193a9a1a8fa4ff5
     time: 1761765682
+  -
+    path: /assets/modules/game_login_rewards/images/arcade2026.kpng
+    hash: 17149c806523498a4218adf77d9a082c484942ef
+    time: 1774618909
   -
     path: /assets/modules/game_login_rewards/images/bdaypxg2020.kpng
     hash: ab74987541717457092ae726f87b47e4ad24ba84
@@ -27314,12 +27366,12 @@ assets:
     time: 1761765683
   -
     path: /assets/modules/menu_characters/avatars.klua
-    hash: 439218e19eddfc90691f9060a4f5b9c453e265ef
-    time: 1771010898
+    hash: 487d22bbfd86e81fee92d8e1602c88c4efb6bb3e
+    time: 1774618909
   -
     path: /assets/modules/menu_characters/avatars.klua32
-    hash: 0524cf49948112732a0a352c33afa5f9170a0db7
-    time: 1771010898
+    hash: 2d2431a26ddeee3515ecbf3083e89fd27fc5bbc1
+    time: 1774618909
   -
     path: /assets/modules/menu_characters/images/advertising.kpng
     hash: 9baad0ce00bc0c4ed9e40a5e76e61889f601df82
@@ -27938,12 +27990,12 @@ assets:
     time: 1761765683
   -
     path: /assets/modules/stats/stats.klua
-    hash: 5033ad0d42039df59b406663b422675f328f3056
-    time: 1761765683
+    hash: e043fc5a40afcc40e8c718c93f7c358457d75fbe
+    time: 1774618909
   -
     path: /assets/modules/stats/stats.klua32
-    hash: 73a8061163ce4ea95a831ebd55188265ddaf7b27
-    time: 1761765683
+    hash: 647d2545ebb99e89914757e675dfc0f93bc6db7f
+    time: 1774618909
   -
     path: /assets/modules/stats/stats.klui
     hash: 956aa6dda83942fd7fa60d089c2ef7247bf0d439
@@ -28186,12 +28238,12 @@ assets:
     time: 1761765683
   -
     path: /assets/modules/translation/translation.klua
-    hash: b130ff76de4693b4826d0f88c563a5af39483a44
-    time: 1773838649
+    hash: 26ee4525644ae09692ee2347c9317243db15b901
+    time: 1774618909
   -
     path: /assets/modules/translation/translation.klua32
-    hash: dba0a58f6a2265bebf7cceb3c82e2ae021d5fb48
-    time: 1773838649
+    hash: bf852f320ce5f1c9ab6de7a30b8555aa84671cd6
+    time: 1774618909
   -
     path: /assets/modules/translation/translation.klui
     hash: ff48edc152e91b87ad4c8cc6fe7786bd483e3868
@@ -28366,12 +28418,12 @@ assets:
     time: 1761765683
   -
     path: /assets/modules/uilib/uihtml.klua
-    hash: c5c765eb3d29044a6a93ab68f57a481998216762
-    time: 1761765683
+    hash: c7e42db52c81c59eb0d11f70dac4a83738ad8bb2
+    time: 1774618909
   -
     path: /assets/modules/uilib/uihtml.klua32
-    hash: e55b314ef5970677e1d8056ce1cb42c7a0f30243
-    time: 1761765683
+    hash: e3179f5d749022093f2f67885c3bf5e94cb09381
+    time: 1774618909
   -
     path: /assets/modules/uilib/uiimageview.klua
     hash: 037e677a1765cc3e13885d4b0adcc34c5da9e25d
@@ -28398,8 +28450,8 @@ assets:
     time: 1761765683
   -
     path: /assets/modules/uilib/uilib.klmod
-    hash: 15f8ce4beea88b435c3b63f5a057fb076471acdb
-    time: 1761765683
+    hash: e977aa0932a113331301600b742c302888793ef0
+    time: 1774618909
   -
     path: /assets/modules/uilib/uimdidock.klua
     hash: b8ecca19e514448f8fbb3c5fd26ec6af629d317a
@@ -29460,6 +29512,14 @@ assets:
     path: /assets/musics/music/footGolemTheme.kogg
     hash: 87fed1bfab319a1e644d9918bec1d444143227c5
     time: 1761765684
+  -
+    path: /assets/musics/music/fossil_crypt_hard.kogg
+    hash: f61675287ed859fe5d602b29c9acf5a42215a29b
+    time: 1774618909
+  -
+    path: /assets/musics/music/fossil_crypt_slow.kogg
+    hash: 05a7b00e3c4a8f7e77a1ff129369807ee1bd3938
+    time: 1774618909
   -
     path: /assets/musics/music/golden.kogg
     hash: f1e30cbd983e8377276c6b2d3eac92dc0a299c71
@@ -31145,6 +31205,10 @@ assets:
     hash: 6564b94fb3511a1760a24245bfbe5a4645c6d860
     time: 1771010900
   -
+    path: /assets/sounds/effects/blink_woosh.kogg
+    hash: 622159930549de2965f9bbd6183a267ed75c0472
+    time: 1774618909
+  -
     path: /assets/sounds/effects/bonecrack.kogg
     hash: 260d2d4a060371404d60f339879dda5e53e98d88
     time: 1768411515
@@ -31152,6 +31216,14 @@ assets:
     path: /assets/sounds/effects/bowstoise_done.kogg
     hash: fae1d2c319c023249b92e530b500015a9d74a8e4
     time: 1768411515
+  -
+    path: /assets/sounds/effects/breaking_bones.kogg
+    hash: dfbc021735e7cbf8904872eb357ba89e0f4c6d8c
+    time: 1774618909
+  -
+    path: /assets/sounds/effects/breaking_crate.kogg
+    hash: eec594d6c80cbb22bbd22755f21e82e221ee040a
+    time: 1774618909
   -
     path: /assets/sounds/effects/catch_fail_01.kogg
     hash: 1212c35cf72ea96f565db4e1b32ea9e1380c681d
@@ -31189,6 +31261,14 @@ assets:
     hash: f6b46f87bd465b911027aa2beebd9d072958aa0b
     time: 1768411515
   -
+    path: /assets/sounds/effects/cut_slash.kogg
+    hash: c886a5cf1bdf35b6917c531ff072eaad277e38b5
+    time: 1774618909
+  -
+    path: /assets/sounds/effects/dash_cut.kogg
+    hash: a438fac5874f246fcd3176a9acdcbaafd70189ff
+    time: 1774618909
+  -
     path: /assets/sounds/effects/dirt_impact.kogg
     hash: 22fd8466943eda94c486fad7badc6890cb011a8e
     time: 1768411515
@@ -31217,9 +31297,17 @@ assets:
     hash: 7ba244e6902c8910054cdfdc72d99b3efd663d64
     time: 1768411515
   -
+    path: /assets/sounds/effects/giant_slash.kogg
+    hash: 6d8ef4563ed246ca430caf291f39eabc925d5885
+    time: 1774618909
+  -
     path: /assets/sounds/effects/gong.kogg
     hash: d736a484602e6fe295742bc2494f27154c44434c
     time: 1768411515
+  -
+    path: /assets/sounds/effects/hit_effect_shadow_ball.kogg
+    hash: 77b3fff824346f9f6dc8a91c9d4f8d48f780e32c
+    time: 1774618909
   -
     path: /assets/sounds/effects/levelup.kogg
     hash: 0be8017135f4753f4341dfeb254e729334ba75bb
@@ -31236,6 +31324,14 @@ assets:
     path: /assets/sounds/effects/lootDrop3.kogg
     hash: d0534cf4efafe57267a96f62fd600b4e357c38fa
     time: 1768411515
+  -
+    path: /assets/sounds/effects/lowering.kogg
+    hash: 8847fa1e9d68372446ff3374f8bfc462b9c94211
+    time: 1774618909
+  -
+    path: /assets/sounds/effects/lowering_cut.kogg
+    hash: 5361a2a546ff750817199f5f0f84b2fbec8eb5b6
+    time: 1774618909
   -
     path: /assets/sounds/effects/mega_evolution.kogg
     hash: ebb9fb5b10b22d8581659e38b96e3a4f8b2ffa74
@@ -31820,6 +31916,10 @@ assets:
     path: /assets/sounds/outfits/roxieTaunt.kogg
     hash: a8fc3efcd717abda57a52459249289b9515d522a
     time: 1768411515
+  -
+    path: /assets/sounds/outfits/tauntArcade2026.kogg
+    hash: 71bda396d64e6f80661b85f3ef9cc8a6835a9e76
+    time: 1774618909
   -
     path: /assets/sounds/outfits/tauntEaster2023.kogg
     hash: 8915447f4ca2e378cb2450df2a578b4b1ee3e301
@@ -32561,6 +32661,10 @@ assets:
     hash: e736ea9a8e739de26bd836f45adbc6f8aceb2229
     time: 1768411516
   -
+    path: /assets/sounds/traps/trap_shadow_ball.kogg
+    hash: 33163431292d7e2a634f59ad86fffedbcc136337
+    time: 1774618909
+  -
     path: /assets/sounds/traps/trap_swamp_bubble.kogg
     hash: 30f1388bd2ec6f1efdd57d00048c2ac52253c424
     time: 1768411516
@@ -32918,12 +33022,12 @@ assets:
     time: 1761765686
   -
     path: /assets/things/things.kdat
-    hash: c1a180461ca36ce22fbf409ba06c072a5875b580
-    time: 1774548322
+    hash: 2dcb0851f0a25e43837aac026e3b1f5d226f11bd
+    time: 1774618909
   -
     path: /assets/things/things.kidx
-    hash: 0243c141da380a4810fcd0fbe4133a63b468d3d6
-    time: 1774548322
+    hash: 1c63b431655b28da5c60d633be6a93bdcaf1ad9c
+    time: 1774618909
   -
     path: /assets/things/things.klua
     hash: 69f92e199ea35c0cd0e1428bc961e98e4e90a44a
@@ -33062,8 +33166,8 @@ assets:
     time: 1774548322
   -
     path: /assets/things/things38.spr
-    hash: 60c586f3240d121141e3928cb748a7bf1cd9212b
-    time: 1774548323
+    hash: 45ba448a6583e201f5451aea062ca9db7d228692
+    time: 1774618909
   -
     path: /assets/things/things4.spr
     hash: 7c239b464978c94d4a73257175f84a6f227f5b1d
@@ -33102,12 +33206,12 @@ assets:
     time: 1761765688
   -
     path: /pxgme-linux
-    hash: e090626b718fb19e74cc03127a6417f81bbf33fb
-    time: 1774548323
+    hash: 9006dddb6dacfcb650d533c483aaf70453564eb1
+    time: 1774618909
   -
     path: /pxgme.exe
-    hash: 5f823fa235a0993ec75dbe694ab7088829a8c588
-    time: 1774548324
+    hash: 5ed8c7f4d6566927def06b99db526d8a5b5623e7
+    time: 1774618910
   -
     path: /win32/d3dcompiler_47.dll
     hash: 76012f31db8618624bc8b563698b2669365e49cb
@@ -33122,7 +33226,7 @@ assets:
     time: 1761765689
   -
     path: /win32/pxgme32.exe
-    hash: cdfeffeda9acfedfed48d37fa4a9227476fcf728
-    time: 1774548325
-hash: 94b4bdd0d0e64664242d9e97f3d1a4551581b726
-date: 1774435174
+    hash: 9f80a188a5c74ae04f7f91f1546d0fb3995538ca
+    time: 1774618911
+hash: bd12fb92bb87e9705ebb29258779a88087aeda5d
+date: 1774607936
