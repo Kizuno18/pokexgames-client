@@ -2,8 +2,8 @@ indexname: pxgmeclient
 assets:
   -
     path: /assets/appbuild.krev
-    hash: 1b6cce9e6748a8ec6378d209fb9a3dc9962aee1d
-    time: 1774618909
+    hash: 9e75b07838a17c0c30cca0d5452bfa339ef31f0e
+    time: 1774726836
   -
     path: /assets/appicon.kpng
     hash: 1c32be9955d3f73f14f687796fbe635688d677ad
@@ -2741,6 +2741,14 @@ assets:
     hash: 04c5b00b7cbb518b84ea9ae0e1949827c5815273
     time: 1761765680
   -
+    path: /assets/images/avatars/quest_ex50.kpng
+    hash: d1a9b1604c7190aba31fd70a0a9f5d65666ce3b9
+    time: 1774726836
+  -
+    path: /assets/images/avatars/quest_ex51.kpng
+    hash: bfb74c6565356c6cdfad3c001caa9c4935e7d19d
+    time: 1774726836
+  -
     path: /assets/images/avatars/quest_ex59.kpng
     hash: 283b5e9f8ae26d57de51c0c6091cc48a8ccfd0f1
     time: 1761765680
@@ -5044,6 +5052,14 @@ assets:
     path: /assets/images/avatars/rounded/quest_ex5.kpng
     hash: d050178e3fcdb3aea28d636543518e3b9aef40c0
     time: 1761765681
+  -
+    path: /assets/images/avatars/rounded/quest_ex50.kpng
+    hash: 5f6b37ab0f88853cbd98c5ba7375464d694e370a
+    time: 1774726836
+  -
+    path: /assets/images/avatars/rounded/quest_ex51.kpng
+    hash: a82906f873c0e6369f73fde6b3b6980becdecaa6
+    time: 1774726836
   -
     path: /assets/images/avatars/rounded/quest_ex59.kpng
     hash: 016ccd818133a8ecf4a17ad68e70f9a1d639be83
@@ -15445,6 +15461,10 @@ assets:
     hash: 0016dbde3b5587a95c4267520044e3112132b660
     time: 1761765681
   -
+    path: /assets/images/professions/bill_craft.kpng
+    hash: 4b5fb97ec6b42c12428e7477518ff4cacb280bc0
+    time: 1774726837
+  -
     path: /assets/images/professions/birthday.kpng
     hash: 22ee6d184a4a0ba71c8107f9ce832dc9479d13c5
     time: 1761765681
@@ -15600,6 +15620,10 @@ assets:
     path: /assets/images/profile_backgrounds/bg.kpng
     hash: 7bf4c3ba1030c4af5d336e7299b645ed2581fd1d
     time: 1761765681
+  -
+    path: /assets/images/profile_backgrounds/bill_light_house.kpng
+    hash: 130d07c9cc738c1770ff8d141a92839b95c9eba2
+    time: 1774726837
   -
     path: /assets/images/profile_backgrounds/bridge.kpng
     hash: e5b639e6cfd7ac364b6e8dc20c7d044c99535cba
@@ -18118,12 +18142,12 @@ assets:
     time: 1769691117
   -
     path: /assets/locales/context.klua
-    hash: 239ed1f8f961f918eff3dd73e3abcd682d5c42ca
-    time: 1774618909
+    hash: d1fc356a6ce6b576c9589d45d3ae42de339d8d3b
+    time: 1774726837
   -
     path: /assets/locales/context.klua32
-    hash: df9ba9ac742fdf6ca7b2eaa91b060ae2de3feb56
-    time: 1774618909
+    hash: 71d59e355c9c22484e98ab54c3619a4441c3247b
+    time: 1774726837
   -
     path: /assets/locales/en-us.klua
     hash: d021fc507b4577d7972db2224943163ab1b91a7f
@@ -18134,28 +18158,28 @@ assets:
     time: 1773239751
   -
     path: /assets/locales/es-419.klua
-    hash: 27a16169e4dc35ba30ade4918a1e7562f4c51f93
-    time: 1773239751
+    hash: 29ee72495b78214410733e4931f46d092055c8d4
+    time: 1774726837
   -
     path: /assets/locales/es-419.klua32
-    hash: 04c568bff54fdbf07630d8815da9c843e2c4a318
-    time: 1773239752
+    hash: ca999674f4faccd24a4bf471750496cef93a565b
+    time: 1774726837
   -
     path: /assets/locales/pl-pl.klua
-    hash: aaa2359ab2a9ae92503c6b83e895dfa20da1f925
-    time: 1773239752
+    hash: ec7d91bfbe497bc3e486b9c11019461cd2c1470d
+    time: 1774726837
   -
     path: /assets/locales/pl-pl.klua32
-    hash: 32c3162f4d63053a2be8a9984bf6b4ce0bc1fc97
-    time: 1773239752
+    hash: 2cb368885c06b90762bda5353ddbbdd563131357
+    time: 1774726837
   -
     path: /assets/locales/pt-br.klua
-    hash: a1061a64f7fd649d202176df901ec93f442ab8bd
-    time: 1773239752
+    hash: ae1a74554263cca7d2734deb6034cd3834cd93da
+    time: 1774726837
   -
     path: /assets/locales/pt-br.klua32
-    hash: 1b5fde57acf0235eadc8d947fb8dc1fc120fb548
-    time: 1773239752
+    hash: b1abd4216401328e3cf47d5e206e1456f79c2254
+    time: 1774726837
   -
     path: /assets/modules/billing/billing.klmod
     hash: dfa5f5031859f84310a20264cd3ff70394953968
@@ -27990,12 +28014,12 @@ assets:
     time: 1761765683
   -
     path: /assets/modules/stats/stats.klua
-    hash: e043fc5a40afcc40e8c718c93f7c358457d75fbe
-    time: 1774618909
+    hash: 961c3b8a072bffd320795dfd7291f520198c2408
+    time: 1774726837
   -
     path: /assets/modules/stats/stats.klua32
-    hash: 647d2545ebb99e89914757e675dfc0f93bc6db7f
-    time: 1774618909
+    hash: d17a06b76f95f9b3e71690b777df8f90df7f635d
+    time: 1774726837
   -
     path: /assets/modules/stats/stats.klui
     hash: 956aa6dda83942fd7fa60d089c2ef7247bf0d439
@@ -28182,12 +28206,12 @@ assets:
     time: 1761765683
   -
     path: /assets/modules/stdlib/util.klua
-    hash: ac6d3fe613b1e40985f4e321b0742a1ace9d4e85
-    time: 1761765683
+    hash: 18d2e3cf465ae3f168b94015b52c5f5b8e5e3b53
+    time: 1774726837
   -
     path: /assets/modules/stdlib/util.klua32
-    hash: 40fab0f937e1b63e33c9b95f64bcf6d676d7d20f
-    time: 1761765683
+    hash: 841ac241024155c5d8ba218e9d8428f40d863a8b
+    time: 1774726837
   -
     path: /assets/modules/stdlib/validator.klua
     hash: f807d497d24f3b0cf023229197c6aaf7c34b321e
@@ -28238,20 +28262,20 @@ assets:
     time: 1761765683
   -
     path: /assets/modules/translation/translation.klua
-    hash: 26ee4525644ae09692ee2347c9317243db15b901
-    time: 1774618909
+    hash: 9c4445f05ef675b677e7441e86d5cc4e65a55377
+    time: 1774726837
   -
     path: /assets/modules/translation/translation.klua32
-    hash: bf852f320ce5f1c9ab6de7a30b8555aa84671cd6
-    time: 1774618909
+    hash: aa9086a920b514eac2f08f56a80ce1c8b237f2d2
+    time: 1774726837
   -
     path: /assets/modules/translation/translation.klui
     hash: ff48edc152e91b87ad4c8cc6fe7786bd483e3868
     time: 1772807195
   -
     path: /assets/modules/translation/widgets/context.klui
-    hash: 4703d6a934b512883e41a24ed4829c46ec421439
-    time: 1761765683
+    hash: f487fdb5af19e5a21c4f6df65963ea3f51b6ca31
+    time: 1774726837
   -
     path: /assets/modules/translation/widgets/errors.klui
     hash: 1130dd9db32c8e4b15a155260d0525ddad30f92a
@@ -33022,12 +33046,12 @@ assets:
     time: 1761765686
   -
     path: /assets/things/things.kdat
-    hash: 2dcb0851f0a25e43837aac026e3b1f5d226f11bd
-    time: 1774618909
+    hash: 92238d7dfad7f35d5b3b896c4ce8a6845b4b48e0
+    time: 1774726838
   -
     path: /assets/things/things.kidx
-    hash: 1c63b431655b28da5c60d633be6a93bdcaf1ad9c
-    time: 1774618909
+    hash: 559318b4c68e3250ed053a2f5347e11f63cfb7dc
+    time: 1774726838
   -
     path: /assets/things/things.klua
     hash: 69f92e199ea35c0cd0e1428bc961e98e4e90a44a
@@ -33166,8 +33190,8 @@ assets:
     time: 1774548322
   -
     path: /assets/things/things38.spr
-    hash: 45ba448a6583e201f5451aea062ca9db7d228692
-    time: 1774618909
+    hash: 16a7a52c38c8d383c2fb07dc9432e5dcad465993
+    time: 1774726838
   -
     path: /assets/things/things4.spr
     hash: 7c239b464978c94d4a73257175f84a6f227f5b1d
@@ -33206,12 +33230,12 @@ assets:
     time: 1761765688
   -
     path: /pxgme-linux
-    hash: 9006dddb6dacfcb650d533c483aaf70453564eb1
-    time: 1774618909
+    hash: ee39367db84afd30ad1ac3ba0ac60d31c1f76500
+    time: 1774726839
   -
     path: /pxgme.exe
-    hash: 5ed8c7f4d6566927def06b99db526d8a5b5623e7
-    time: 1774618910
+    hash: d34187cc711296f4721ad8e2cd6996e3cfc5879f
+    time: 1774726840
   -
     path: /win32/d3dcompiler_47.dll
     hash: 76012f31db8618624bc8b563698b2669365e49cb
@@ -33226,7 +33250,7 @@ assets:
     time: 1761765689
   -
     path: /win32/pxgme32.exe
-    hash: 9f80a188a5c74ae04f7f91f1546d0fb3995538ca
-    time: 1774618911
-hash: bd12fb92bb87e9705ebb29258779a88087aeda5d
-date: 1774607936
+    hash: 11230080d0eb0f949adde98475b2290403921f53
+    time: 1774726840
+hash: 43bbb18c10b67b3b6cf7d31d2c3413f5f2407c92
+date: 1774694347
