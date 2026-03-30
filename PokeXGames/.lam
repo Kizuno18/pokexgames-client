@@ -2,8 +2,8 @@ indexname: pxgmeclient
 assets:
   -
     path: /assets/appbuild.krev
-    hash: 9e75b07838a17c0c30cca0d5452bfa339ef31f0e
-    time: 1774726836
+    hash: d33e06fe66d1725700f2052847c4c37aa654dba7
+    time: 1774890385
   -
     path: /assets/appicon.kpng
     hash: 1c32be9955d3f73f14f687796fbe635688d677ad
@@ -18142,12 +18142,12 @@ assets:
     time: 1769691117
   -
     path: /assets/locales/context.klua
-    hash: d1fc356a6ce6b576c9589d45d3ae42de339d8d3b
-    time: 1774726837
+    hash: 576adc7d9c294d387094acbc9a0591dda7549de8
+    time: 1774890385
   -
     path: /assets/locales/context.klua32
-    hash: 71d59e355c9c22484e98ab54c3619a4441c3247b
-    time: 1774726837
+    hash: 7767cf388b96eafff4662dc5fb4f8c93a79dd36c
+    time: 1774890385
   -
     path: /assets/locales/en-us.klua
     hash: d021fc507b4577d7972db2224943163ab1b91a7f
@@ -24798,16 +24798,16 @@ assets:
     time: 1764373732
   -
     path: /assets/modules/game_profile/const.klua
-    hash: de3e0dd43cd2c9f4f4c56f938fd78cfb2e6b9401
-    time: 1769691117
+    hash: 4e6dbe8d99b73c76aa9dde2e88797ea81d73a250
+    time: 1774890385
   -
     path: /assets/modules/game_profile/const.klua32
-    hash: 23bc7be206cdb0f9090c9b62791d3032c373f47b
-    time: 1769691117
+    hash: 42383078109e394d7e4d2b4f3a93008fe80ae7d4
+    time: 1774890385
   -
     path: /assets/modules/game_profile/general.klui
-    hash: a16580a6d9d86900d807c1a9583929ba8d8518c8
-    time: 1762959110
+    hash: 745db0b07799d6d9a5a73695a36a950b426e6d82
+    time: 1774890385
   -
     path: /assets/modules/game_profile/images/achievements/bosses.kpng
     hash: 7a178908c5b63f0b45d6f8845ddb64ade4c2e6ee
@@ -25162,12 +25162,12 @@ assets:
     time: 1761765683
   -
     path: /assets/modules/game_profile/profile.klua
-    hash: 8d39a7c83e8c66a6dddd58b5d79d37e84e139d36
-    time: 1762959110
+    hash: 3a227d0180d3fa1c12567467a5ac3fcbf3f84d7d
+    time: 1774890385
   -
     path: /assets/modules/game_profile/profile.klua32
-    hash: b72d885c6dc3a5e135eaeb4f05893e5be26b7b44
-    time: 1762959110
+    hash: a0f8dfc9f8635506150593427dfc1f206c847e9e
+    time: 1774890385
   -
     path: /assets/modules/game_profile/profile.klui
     hash: 10fb375d831d7d202c9be54c907aa426414d3d75
@@ -25178,12 +25178,12 @@ assets:
     time: 1761765683
   -
     path: /assets/modules/game_profile/profile_manager.klua
-    hash: 8ed49c495a846575d11a399bd23bba082975e8e9
-    time: 1771010898
+    hash: bf37a18257cc0cee543b96151a1236fecead4648
+    time: 1774890385
   -
     path: /assets/modules/game_profile/profile_manager.klua32
-    hash: 462a056c8dd7c951414c28d184f825ccc8219b8f
-    time: 1771010898
+    hash: 27b794c667a25f4bdc0ab240f5550ab0ad894d94
+    time: 1774890385
   -
     path: /assets/modules/game_profile/profile_new.klui
     hash: f53d31b29e7fe87407c2dff597dd50740e140857
@@ -33230,12 +33230,12 @@ assets:
     time: 1761765688
   -
     path: /pxgme-linux
-    hash: ee39367db84afd30ad1ac3ba0ac60d31c1f76500
-    time: 1774726839
+    hash: 031fe8f5a3bd65fdff6f09f4eb2dec0c30aacaf9
+    time: 1774890385
   -
     path: /pxgme.exe
-    hash: d34187cc711296f4721ad8e2cd6996e3cfc5879f
-    time: 1774726840
+    hash: 1e2438d8a14d025c92606dbf63f660249f298e40
+    time: 1774890386
   -
     path: /win32/d3dcompiler_47.dll
     hash: 76012f31db8618624bc8b563698b2669365e49cb
@@ -33250,7 +33250,7 @@ assets:
     time: 1761765689
   -
     path: /win32/pxgme32.exe
-    hash: 11230080d0eb0f949adde98475b2290403921f53
-    time: 1774726840
-hash: 43bbb18c10b67b3b6cf7d31d2c3413f5f2407c92
-date: 1774694347
+    hash: 4003199c55719e04c19f96aab186855a34b56d62
+    time: 1774890386
+hash: 6057a877ad898b443a1a98a7051dc97fd7197c7f
+date: 1774867138
