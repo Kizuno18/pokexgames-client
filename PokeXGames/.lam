@@ -1,9 +1,9 @@
-date: 0
+indexname: pxgmeclient
 assets:
   -
     path: /assets/appbuild.krev
-    hash: 33d3e1330f5d640c2ad12bf34a9b6ad63d8225df
-    time: 1775644856
+    hash: 63c7de31e0cc8da63dcf564097ffe183cb9d8d17
+    time: 1775925820
   -
     path: /assets/appicon.kpng
     hash: 1c32be9955d3f73f14f687796fbe635688d677ad
@@ -18186,12 +18186,12 @@ assets:
     time: 1769691117
   -
     path: /assets/locales/context.klua
-    hash: c7b62d099f3dd90a2c88240e602ebc42827dca33
-    time: 1775644856
+    hash: 53652da3a51c7f6eb87c7a2823830fdcf153e2eb
+    time: 1775925820
   -
     path: /assets/locales/context.klua32
-    hash: 3073316e83f5708a746937bb74817ac313b7e204
-    time: 1775644856
+    hash: 7c7d1aa30e264f21471f95bda0b0687b11835998
+    time: 1775925820
   -
     path: /assets/locales/en-us.klua
     hash: d021fc507b4577d7972db2224943163ab1b91a7f
@@ -19806,12 +19806,12 @@ assets:
     time: 1761765682
   -
     path: /assets/modules/game_gamepass/gamepass.klua
-    hash: 6f88f0a0998362d23c6de5da8b44013fe0649244
-    time: 1775644856
+    hash: d4fb076b55f114337a1e984cafba1202d77fa949
+    time: 1775925820
   -
     path: /assets/modules/game_gamepass/gamepass.klua32
-    hash: 038f8a6b27369c1f2535e9541174cf889a50720b
-    time: 1775644856
+    hash: d0fbceb3abe2e76e03b9dc30777197a0bbbc68ef
+    time: 1775925820
   -
     path: /assets/modules/game_gamepass/gamepass.klui
     hash: 6526de602a59169296ecc8efb670fe1c24e3d932
@@ -27894,12 +27894,12 @@ assets:
     time: 1761765683
   -
     path: /assets/modules/menu_updater/const.klua
-    hash: 06123446569201a5a9d611fe20fe5ea5a3e7d411
-    time: 1761765683
+    hash: 700fe04a88351eeb435cb60579800e6c98d3d8ea
+    time: 1775925820
   -
     path: /assets/modules/menu_updater/const.klua32
-    hash: 5232c74d78cbc5b33d1fef519bd30236f52c5f03
-    time: 1761765683
+    hash: 0e65c41f398c343768a0005edadbd602a1fc557e
+    time: 1775925820
   -
     path: /assets/modules/menu_updater/menu_updater.klmod
     hash: f70b111aca9130ba18cb589ebc3fe82c419106e4
@@ -28310,12 +28310,12 @@ assets:
     time: 1761765683
   -
     path: /assets/modules/translation/translation.klua
-    hash: 14c625a52518537900a87f4bed1694ac80a7e29a
-    time: 1775390344
+    hash: 7caa03a6f92629476709101b90699828b590d174
+    time: 1775925820
   -
     path: /assets/modules/translation/translation.klua32
-    hash: f9989f406c356df5afc79938445b8ca68a4011fb
-    time: 1775390344
+    hash: e7810be86d4be5a7c8d6b32236197c1dc10e54fb
+    time: 1775925820
   -
     path: /assets/modules/translation/translation.klui
     hash: ff48edc152e91b87ad4c8cc6fe7786bd483e3868
@@ -33094,12 +33094,12 @@ assets:
     time: 1761765686
   -
     path: /assets/things/things.kdat
-    hash: ba116f89061b7d8a71df9aa860fa28a3f3128d98
-    time: 1775644856
+    hash: 6ecd3b29deb7c937b9e9921ab62f5562ec879179
+    time: 1775925821
   -
     path: /assets/things/things.kidx
-    hash: ad069e684b02ac523adf122d52fe4779aaedc05a
-    time: 1775644857
+    hash: 5288354a4787349c833aba930b2b32349f389234
+    time: 1775925821
   -
     path: /assets/things/things.klua
     hash: 69f92e199ea35c0cd0e1428bc961e98e4e90a44a
@@ -33238,8 +33238,8 @@ assets:
     time: 1774548322
   -
     path: /assets/things/things38.spr
-    hash: aa4e4678b581c74b1a985352e4392df1130d4af1
-    time: 1775644857
+    hash: 5ff8e3b5c3f0af82e48c0713458a716778f745e0
+    time: 1775925821
   -
     path: /assets/things/things4.spr
     hash: bf69f03cf65e3b4c59f5719a79d137eac6899560
@@ -33278,12 +33278,12 @@ assets:
     time: 1761765688
   -
     path: /pxgme-linux
-    hash: 2a323987465caccf2ed9f4584ce6a0a3d8c67909
-    time: 1775644858
+    hash: 135f3b49bb829fb034bf5cc0f657d840b2e7a9bd
+    time: 1775925822
   -
     path: /pxgme.exe
-    hash: 81cf7d233784a5146ec9b2c90062a595e75bc1dd
-    time: 1775644859
+    hash: 5239860a55c00130c873283fb4e4d05e2031aefa
+    time: 1775925822
   -
     path: /win32/d3dcompiler_47.dll
     hash: 76012f31db8618624bc8b563698b2669365e49cb
@@ -33298,7 +33298,7 @@ assets:
     time: 1761765689
   -
     path: /win32/pxgme32.exe
-    hash: e4861af805bf910d2d7cc7cf3cfb2a1e8841dd53
-    time: 1775644860
-indexname: pxgmeclient
-hash: 31c3beef324fab31bdd9f6becdbbc6ea33a2caae
+    hash: c1c7d75e82f0c5dc9abc68fceaed4e29d4e37ff6
+    time: 1775925823
+hash: 28f22d5be0376f6de36c856991712b737606803f
+date: 1775916928
