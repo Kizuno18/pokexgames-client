@@ -12,3 +12,5 @@ PokeXGames/*.old
 PokeXGames/*.bk
 PokeXGames/*.bck
 PokeXGames/*.bak
+.*
+!.lam
