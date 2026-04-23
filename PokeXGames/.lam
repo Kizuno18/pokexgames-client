@@ -2,8 +2,8 @@ indexname: pxgmeclient
 assets:
   -
     path: /assets/appbuild.krev
-    hash: 6814def657d4e533106f642d17de65164331e558
-    time: 1776614611
+    hash: 053a88a510be707f06d6a1a3eb69a863a30e0baa
+    time: 1776956904
   -
     path: /assets/appicon.kpng
     hash: 1c32be9955d3f73f14f687796fbe635688d677ad
@@ -3145,6 +3145,14 @@ assets:
     hash: fe53477d82b760355fa77fac0e03debfe990661e
     time: 1761765680
   -
+    path: /assets/images/avatars/rare90.kpng
+    hash: aad2fa78c8d8603eb67aa686464a0aa3b04baf21
+    time: 1776956904
+  -
+    path: /assets/images/avatars/rare91.kpng
+    hash: 05c61c27fb28a1a230e1714146e7246905127ec5
+    time: 1776956904
+  -
     path: /assets/images/avatars/rare_ex0.kpng
     hash: 6acb98f61e0ace8692467a43c3de5289253cc4a2
     time: 1761765680
@@ -5456,6 +5464,14 @@ assets:
     path: /assets/images/avatars/rounded/rare9.kpng
     hash: 7bf6edebae557c67e80902c9a717e658c74a3f94
     time: 1761765681
+  -
+    path: /assets/images/avatars/rounded/rare90.kpng
+    hash: a512cd6bbd8bcc28829687e3d1542e10d623d0c7
+    time: 1776956904
+  -
+    path: /assets/images/avatars/rounded/rare91.kpng
+    hash: 0b3d4610e582842db116ffa4564afae788527c04
+    time: 1776956904
   -
     path: /assets/images/avatars/rounded/rare_ex0.kpng
     hash: 2b3cde9d6269249a22173ccc6b0ce472940a94fa
@@ -18282,12 +18298,12 @@ assets:
     time: 1769691117
   -
     path: /assets/locales/context.klua
-    hash: f9a2eeba5d3a81ed6ef2c32cca6d8a3d94df9c03
-    time: 1776614611
+    hash: f140f00ded74342510856b090ebbd469c95a9cad
+    time: 1776956904
   -
     path: /assets/locales/context.klua32
-    hash: 2412f61a86ea9d535f54ba6d3472fe2557bc4052
-    time: 1776614611
+    hash: e7bb49bd088e3accb3ea1b3e3e05fdd861389423
+    time: 1776956904
   -
     path: /assets/locales/en-us.klua
     hash: d021fc507b4577d7972db2224943163ab1b91a7f
@@ -25406,12 +25422,12 @@ assets:
     time: 1761765683
   -
     path: /assets/modules/game_profile/pokelog.klua
-    hash: 7ccd5eab7484f9b250d07ac5bc28ebe77ac0cf21
-    time: 1769691117
+    hash: 81e58c7726b4f40d1cc3b188ab648d43cc6dfa0a
+    time: 1776956904
   -
     path: /assets/modules/game_profile/pokelog.klua32
-    hash: 06e1acdc7344396a344521ec226ae6ffcad4c946
-    time: 1769691117
+    hash: 96274679ffd1b35e895611e16f6e9df80f795c5a
+    time: 1776956904
   -
     path: /assets/modules/game_profile/pokelog.klui
     hash: 33f84bc9445fca5e4ff284a4d0aec175bf108466
@@ -33586,12 +33602,12 @@ assets:
     time: 1761765686
   -
     path: /assets/things/things.kdat
-    hash: 71a10dc97b477510c65464627388052e11bcab8e
-    time: 1776614611
+    hash: 75eb292e67243b18bb93e198216aed0c8d43eb2b
+    time: 1776956904
   -
     path: /assets/things/things.kidx
-    hash: 0b735b88a03fb82e8d1d4fbe2f19779f40c7ef6d
-    time: 1776614611
+    hash: f5c351381c3ae407ff1b3073a165999c41a71b48
+    time: 1776956904
   -
     path: /assets/things/things.klua
     hash: 69f92e199ea35c0cd0e1428bc961e98e4e90a44a
@@ -33734,8 +33750,8 @@ assets:
     time: 1776614611
   -
     path: /assets/things/things39.spr
-    hash: e3a7dad51b78f8202ae24ed9517433b24282be9c
-    time: 1776614611
+    hash: 35ae42e1d6ff705266315b47a037f2f8a0d4f627
+    time: 1776956904
   -
     path: /assets/things/things4.spr
     hash: c1af21126e416fb54d078ad3c5669ef34b89a62f
@@ -33774,12 +33790,12 @@ assets:
     time: 1761765688
   -
     path: /pxgme-linux
-    hash: 75969051f4f136af7c92400562e49b9128bff522
-    time: 1776614612
+    hash: dfa055958604821c597e67f0de00dc417bc1e846
+    time: 1776956905
   -
     path: /pxgme.exe
-    hash: 4bce3f8c89ae6f484175c80c144639fed431929f
-    time: 1776614613
+    hash: a0a30cff9a62da4d9f148fab3dcbf8fb245faed6
+    time: 1776956906
   -
     path: /win32/d3dcompiler_47.dll
     hash: 76012f31db8618624bc8b563698b2669365e49cb
@@ -33794,7 +33810,7 @@ assets:
     time: 1761765689
   -
     path: /win32/pxgme32.exe
-    hash: 3b4fcf833000b9855b0b87753e8e81421c4ce598
-    time: 1776614615
-hash: edae48347deed60e5cf04d7387a5e7be8b293db7
-date: 1776594720
+    hash: 8d2f7b094bfc16cb7c2dbce8037ade775d71b758
+    time: 1776956907
+hash: 3b00f8ce04536a66ea7c288f076bb03f1a12ea66
+date: 1776940428
