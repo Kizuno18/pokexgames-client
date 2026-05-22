@@ -2,8 +2,8 @@ indexname: pxgmeclient
 assets:
   -
     path: /assets/appbuild.krev
-    hash: e4318de8c9cf13c4dfaefbdbf5c8a3781a3ed65e
-    time: 1778943358
+    hash: 450fdb7256f603da6bb8f4f1c924ff3c7a0bcb93
+    time: 1779395286
   -
     path: /assets/appicon.kpng
     hash: 1c32be9955d3f73f14f687796fbe635688d677ad
@@ -18310,12 +18310,12 @@ assets:
     time: 1778628019
   -
     path: /assets/locales/context.klua
-    hash: 6a9255fd314209c536203562fe45fc3e3b453983
-    time: 1778943358
+    hash: 5fc898818f3371b89fa9187304b74e154ff2ad21
+    time: 1779395286
   -
     path: /assets/locales/context.klua32
-    hash: 3e4d0e080c3167b2debba2e722c553ecfe3af4ed
-    time: 1778943358
+    hash: 849a6d9deefdc6ab1afcabbb7da9d1d1b1503d30
+    time: 1779395286
   -
     path: /assets/locales/en-us.klua
     hash: d021fc507b4577d7972db2224943163ab1b91a7f
@@ -18326,28 +18326,28 @@ assets:
     time: 1778628019
   -
     path: /assets/locales/es-419.klua
-    hash: 870e809b77660770865be715b4cdef184b2b6f13
-    time: 1778629487
+    hash: c7c0b75399587f8e7bd3c039cc35f39fd48eb380
+    time: 1779077122
   -
     path: /assets/locales/es-419.klua32
-    hash: 4a33d09a8e3b79dab1555df39af75532fd24a098
-    time: 1778629487
+    hash: 3c5af0694675922edde36a72c3bb205a32954dc4
+    time: 1779077122
   -
     path: /assets/locales/pl-pl.klua
-    hash: 3845003c96d4ee1d8b636f8a0805df23be841e02
-    time: 1778629487
+    hash: fa0615100ffae780e43b48887ac0658d934aaca4
+    time: 1779077122
   -
     path: /assets/locales/pl-pl.klua32
-    hash: edcb49bd8f1ca3104bd6f3350f35430a3073f132
-    time: 1778629487
+    hash: 0a00a773ffd791f875211741e7ab1be1b23f6860
+    time: 1779077122
   -
     path: /assets/locales/pt-br.klua
-    hash: 47c50e531c7c94f7a80e684c90fdbddcbf396045
-    time: 1778629487
+    hash: 71830f00a5a8abae3d43e3dfadff3b81907c072c
+    time: 1779077122
   -
     path: /assets/locales/pt-br.klua32
-    hash: d9e80a21bcc2dbef0138a6169f72a6514c75a854
-    time: 1778629487
+    hash: 84bae964ba9218630944ee5e22c99541852da213
+    time: 1779077122
   -
     path: /assets/modules/billing/billing.klmod
     hash: dfa5f5031859f84310a20264cd3ff70394953968
@@ -21534,12 +21534,12 @@ assets:
     time: 1778629487
   -
     path: /assets/modules/game_house/house_info.klua
-    hash: ebef0641c365cddc85de50199078628ed644cfaa
-    time: 1778629487
+    hash: 86bdd1902af25355bc73602d2731b1edddaf5091
+    time: 1779395286
   -
     path: /assets/modules/game_house/house_info.klua32
-    hash: 0dbdb4021d403b4c115f3f3b1d404e9139599d7c
-    time: 1778629487
+    hash: 5ab4c0ef4c854fba33451c9e51798f5786a48c97
+    time: 1779395286
   -
     path: /assets/modules/game_house/house_info.klui
     hash: 46fa3457c3f2e1dc44e7fa78ac8c1b5a239108d8
@@ -27842,16 +27842,16 @@ assets:
     time: 1778628020
   -
     path: /assets/modules/menu_characters/menu_characters.klua
-    hash: 3d2745581c47efa3594f10380f75e55e4c0d4c6b
-    time: 1778628020
+    hash: a1cc261f42f1a666eda2236577b757a7f5312be3
+    time: 1779077122
   -
     path: /assets/modules/menu_characters/menu_characters.klua32
-    hash: 40ea55b224da9dbbe3fa4424ad172f17cb749f0a
-    time: 1778628020
+    hash: be76dca4c6fa9b831427956141ed165c1accb678
+    time: 1779077122
   -
     path: /assets/modules/menu_characters/menu_characters.klui
     hash: 9d8e596bb8985916958eb76713abafe816d2ca18
-    time: 1778628020
+    time: 1779395286
   -
     path: /assets/modules/menu_characters/menu_characters_me.klui
     hash: 7f010e635d174d4d0cbe87d743e757edca4b020c
@@ -28030,8 +28030,8 @@ assets:
     time: 1778628020
   -
     path: /assets/modules/menu_login/menu_login.klui
-    hash: d0395663058c15579b919d766bf02fa18d081b5a
-    time: 1778628020
+    hash: f3fcc99f1a7847b0d111615b5562772221488ef8
+    time: 1779395286
   -
     path: /assets/modules/menu_login/menu_login_me.klui
     hash: b83ef89417eef0971405988b3d2307a0a9c99188
@@ -33690,12 +33690,12 @@ assets:
     time: 1778628021
   -
     path: /assets/things/things.kdat
-    hash: 514f6b38fe7a7f43e2c815ba0defcf3d8882c50b
-    time: 1778629487
+    hash: 310946be1db53bc666e76ab0549d2c8927436e00
+    time: 1779395286
   -
     path: /assets/things/things.kidx
-    hash: 872e3df2dc1ac47b89e268b5d4bcb835d0d62242
-    time: 1778629487
+    hash: 6d68c040a20cb9484acd0afebf18ed22c3a13cfe
+    time: 1779395286
   -
     path: /assets/things/things.klua
     hash: 69f92e199ea35c0cd0e1428bc961e98e4e90a44a
@@ -33806,8 +33806,8 @@ assets:
     time: 1778629489
   -
     path: /assets/things/things31.spr
-    hash: 0cfd5b7f44a391c8d5d4c44f3f5e05bc51ce1077
-    time: 1778629489
+    hash: 82dfd8bcab160eb1e56aea52056ffc10c58bf70f
+    time: 1779395286
   -
     path: /assets/things/things32.spr
     hash: 81553110c4c44fbefa420bf9a7c1e323783ec046
@@ -33838,16 +33838,16 @@ assets:
     time: 1778629489
   -
     path: /assets/things/things39.spr
-    hash: 836805bc5fa1fb2f03c38b71becba6c8e1eecd1a
-    time: 1778629489
+    hash: cc7461ed3d6e6d29f57d1f03e71af2301ff21bef
+    time: 1779395286
   -
     path: /assets/things/things4.spr
     hash: c1af21126e416fb54d078ad3c5669ef34b89a62f
     time: 1778628022
   -
     path: /assets/things/things5.spr
-    hash: de0f645b2766ce1864c0627bc21ca18370a3e6d3
-    time: 1778628022
+    hash: d1e4ff57a567cef6e94644e7cd141c25ccb9aa15
+    time: 1779395286
   -
     path: /assets/things/things6.spr
     hash: 7c8addd235cdee937f9f11630986f799f47b1cfb
@@ -33878,12 +33878,12 @@ assets:
     time: 1778628022
   -
     path: /pxgme-linux
-    hash: 4f70a313545dab40845d03f1a00abcc6d881fe4f
-    time: 1778943360
+    hash: 2a90710148bc7677338796cc8001be5cefa4edad
+    time: 1779395286
   -
     path: /pxgme.exe
-    hash: c40301a9ab9493aef5ab767db693f1270e577a89
-    time: 1778943361
+    hash: 926a0b50bad05c1307f8139c395be2c189ef9d45
+    time: 1779395286
   -
     path: /win32/d3dcompiler_47.dll
     hash: 76012f31db8618624bc8b563698b2669365e49cb
@@ -33898,7 +33898,7 @@ assets:
     time: 1778628022
   -
     path: /win32/pxgme32.exe
-    hash: 243322a9afe7abd30288f6d5f5dd4c014342bdfa
-    time: 1778943362
-hash: 0de25b295acd6f6f15db7d19fda12ce8db2d4834
-date: 1778927866
+    hash: 0632f043158467526663002e8edc00d4da28ca55
+    time: 1779395286
+hash: 169fd0e656abf5e17e7f6dec3666285b0b0208db
+date: 1779213062
