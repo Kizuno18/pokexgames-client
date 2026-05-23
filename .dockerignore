@@ -1,0 +1,20 @@
+# as we use docker to auto-update pxgme.exe
+# Keep this in sync with .gitignore for the PokeXGames/mydata runtime files.
+
+# Runtime-generated, may contain credentials — never ship in the image.
+# Recreated per-container at runtime.
+PokeXGames/mydata/.*.json
+PokeXGames/mydata/settings.otml
+PokeXGames/mydata/*.json
+PokeXGames/mydata/*.log
+PokeXGames/mydata/*.txt
+PokeXGames/mydata/logs/
+
+# Crash / debug / backup artifacts
+PokeXGames/*.tmp
+PokeXGames/*.log
+PokeXGames/*.dmp
+PokeXGames/*.old
+PokeXGames/*.bk
+PokeXGames/*.bck
+PokeXGames/*.bak

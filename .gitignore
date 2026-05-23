@@ -14,3 +14,6 @@ PokeXGames/*.bck
 PokeXGames/*.bak
 .*
 !.lam
+!.dockerignore
+!.gitattributes
+!.gitignore
