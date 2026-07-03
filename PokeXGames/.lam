@@ -2,8 +2,8 @@ indexname: pxgmeclient
 assets:
   -
     path: /assets/appbuild.krev
-    hash: c2b5c5baa12fece4561c7419f4d45a17a4714b7a
-    time: 1782573507
+    hash: 563fdc87755e3a525ea28c301d94efaa053add3d
+    time: 1783106228
   -
     path: /assets/appicon.kpng
     hash: 1c32be9955d3f73f14f687796fbe635688d677ad
@@ -5725,6 +5725,22 @@ assets:
     hash: 782b5bdbc6802051b688ae7f204f670d13c594e5
     time: 1778628019
   -
+    path: /assets/images/avatars/rounded/tg29_01.kpng
+    hash: d4024e92474e3404018dcee0d9b99190f48a09bd
+    time: 1783106228
+  -
+    path: /assets/images/avatars/rounded/tg29_02.kpng
+    hash: 587fc9fd1fcaf40b7404d2e58aae4244c99c7fd5
+    time: 1783106228
+  -
+    path: /assets/images/avatars/rounded/tg29_03.kpng
+    hash: be9e97927c64b9c0e987ee417813420e738ad8a1
+    time: 1783106228
+  -
+    path: /assets/images/avatars/rounded/tg29_04.kpng
+    hash: 1d63559016ab9166e80cccdd485bb9d0f0682f0a
+    time: 1783106228
+  -
     path: /assets/images/avatars/rounded/ultra_rare0.kpng
     hash: 3981122dcee1c1983cafcd4dee688743b57bd715
     time: 1778628019
@@ -5925,6 +5941,14 @@ assets:
     hash: 658bf9884bcab5589cc78ff17d00e4fbdc6b3032
     time: 1781021426
   -
+    path: /assets/images/avatars/rounded/wintertime_01.kpng
+    hash: d8ccf67930d6de7377bbbd7414c373ce884f3092
+    time: 1783106228
+  -
+    path: /assets/images/avatars/rounded/wintertime_02.kpng
+    hash: cdeb0ec830b406e4b9c88759fd3d2461191e77e0
+    time: 1783106228
+  -
     path: /assets/images/avatars/secret0.kpng
     hash: 330a889104b7492094b99289db8988dd915ce185
     time: 1778628019
@@ -6008,6 +6032,22 @@ assets:
     path: /assets/images/avatars/tg28_04.kpng
     hash: 125b5ebad34d55c67c9a09ee80b90001ca24fa4f
     time: 1778628019
+  -
+    path: /assets/images/avatars/tg29_01.kpng
+    hash: 75818b41543234f7ec54ace83860a06205204797
+    time: 1783106228
+  -
+    path: /assets/images/avatars/tg29_02.kpng
+    hash: fc5f655f5e9bddd1384d87bf247735c573aee64e
+    time: 1783106228
+  -
+    path: /assets/images/avatars/tg29_03.kpng
+    hash: d0adab1e0b1249befc653ea983fc3f73cec1f25e
+    time: 1783106228
+  -
+    path: /assets/images/avatars/tg29_04.kpng
+    hash: 87b95c14250a9989180133e578589c1875ed0473
+    time: 1783106229
   -
     path: /assets/images/avatars/ultra_rare0.kpng
     hash: b7e5512a59504b022ff125ea9c21d162f1fcc91f
@@ -6204,6 +6244,14 @@ assets:
     path: /assets/images/avatars/valentines2026_02.kpng
     hash: aae3121c3216ea0180edf9c67a509806af5f559d
     time: 1781021427
+  -
+    path: /assets/images/avatars/wintertime_01.kpng
+    hash: d2a55f80781f7db5606f8fb457dfe9032917cabf
+    time: 1783106229
+  -
+    path: /assets/images/avatars/wintertime_02.kpng
+    hash: 6743dd44c9857e11e34eb70d94b91614d3476376
+    time: 1783106229
   -
     path: /assets/images/background/hd.kpng
     hash: 7e0a0b8c0d0881cc770617f2bfdb8a6460f2b894
@@ -18330,12 +18378,12 @@ assets:
     time: 1778628019
   -
     path: /assets/init.klua
-    hash: 0616cbaf370ef525b8c5c4fd03654816092c6615
-    time: 1781830581
+    hash: 5d3ddcb2c228f6646de643668043f1dca342e6bb
+    time: 1783106229
   -
     path: /assets/init.klua32
-    hash: 1abb9285f2fafb575a919e9bf3c45339b28d6376
-    time: 1781830581
+    hash: f3d54fc6bb31bdeb14656d755a92c3afcb7cc2c7
+    time: 1783106229
   -
     path: /assets/initlib.klua
     hash: 2f0d2a64d00a6fb19d3e678eac2f1f78784e4ea0
@@ -18346,12 +18394,12 @@ assets:
     time: 1780539151
   -
     path: /assets/locales/context.klua
-    hash: 96847c7757932ab100759f5bad7a06960a1caade
-    time: 1782573507
+    hash: ecfd1ee1edff91f8e858291fbf84cc77a5dde860
+    time: 1783106229
   -
     path: /assets/locales/context.klua32
-    hash: 23abeb36690b16bd65e9ad06cd8f5b7118fff10f
-    time: 1782573507
+    hash: 208959b90a49678a9733ac26eb2929ede4278ea7
+    time: 1783106229
   -
     path: /assets/locales/en-us.klua
     hash: d021fc507b4577d7972db2224943163ab1b91a7f
@@ -18362,28 +18410,28 @@ assets:
     time: 1778628019
   -
     path: /assets/locales/es-419.klua
-    hash: 41bb42a34ba7ed1db7bb7da169b9d9d7fff4eedb
-    time: 1782573507
+    hash: b0b9b6e9dbfc4ddfbd29f8e43f071d68bc37079f
+    time: 1783106229
   -
     path: /assets/locales/es-419.klua32
-    hash: d1febab547da99280cc302c756cefcdd8bf13d80
-    time: 1782573508
+    hash: e76a304cf018bdd3a920506f911d719eba0ecc15
+    time: 1783106229
   -
     path: /assets/locales/pl-pl.klua
-    hash: 5bcb516417040d18b60d5d3585daddd42706b88f
-    time: 1782573508
+    hash: decda4414e4bf866a1b3d2c81dd7e9f85d054041
+    time: 1783106230
   -
     path: /assets/locales/pl-pl.klua32
-    hash: 5d6c9d0d1dfbfe44a1bedc933371441256a68cf2
-    time: 1782573508
+    hash: 338997c53439c5769cce5e60d083d75b80c996f3
+    time: 1783106230
   -
     path: /assets/locales/pt-br.klua
-    hash: 0e772b65572eb5ecc88f0077f33604527a040e9b
-    time: 1782573508
+    hash: fb33374b9147d8ef6487ad40710417037db67f38
+    time: 1783106230
   -
     path: /assets/locales/pt-br.klua32
-    hash: 703b2afc2b1cad52ba6aef550127da475716378c
-    time: 1782573508
+    hash: 10f1962e540e5df4ce375f21689cb7a60e68d5df
+    time: 1783106230
   -
     path: /assets/modules/discord/discord.klmod
     hash: f0cae91812b1421456da86b313099be4ae6c7d1b
@@ -18522,12 +18570,12 @@ assets:
     time: 1778628019
   -
     path: /assets/modules/game_battle/battle.klua
-    hash: 8fbaa33a589ac48834e866e37edc7f24da056212
-    time: 1782573508
+    hash: 2ef2c483be10ad7bd6eb5e92aae8dde7852fc3bb
+    time: 1782811004
   -
     path: /assets/modules/game_battle/battle.klua32
-    hash: 7e42d9af849981bad0fb356a1f2fba770d596dab
-    time: 1782573508
+    hash: 76dbc6de8b1dbce3e0861a8e4ec559e6944c554b
+    time: 1782811004
   -
     path: /assets/modules/game_battle/battle.klui
     hash: bd85378d920476dc191103abcdf4d5f11b017ee2
@@ -18602,16 +18650,16 @@ assets:
     time: 1778628019
   -
     path: /assets/modules/game_brotherhood/brotherhood.klua
-    hash: cc8aec7817e0cf7c456ebf854ac9060fc3911b57
-    time: 1782573508
+    hash: 390a10518a7bb46c1417a14d27ef67f7ce04358c
+    time: 1783106230
   -
     path: /assets/modules/game_brotherhood/brotherhood.klua32
-    hash: 165084f454e65cf78ef1405c5021b0d267f6c20e
-    time: 1782573508
+    hash: 2a09b273e0a16ea39ad4293034705502a41deb35
+    time: 1783106230
   -
     path: /assets/modules/game_brotherhood/brotherhood.klui
-    hash: 9ec22c0796492ffad3801e0dcf465f15c372c553
-    time: 1781021446
+    hash: e2e340fb79c525ff4b30a4e51550cd4d4e58974c
+    time: 1783106230
   -
     path: /assets/modules/game_brotherhood/img/check-mark-o.kpng
     hash: c5f1f2ecd2644f2cd57ff9ac9819180f57c2d432
@@ -19974,12 +20022,12 @@ assets:
     time: 1778628019
   -
     path: /assets/modules/game_gamepass/gamepass.klua
-    hash: ce8edb947fe412e31ffd15cfb6fb19ce3d2dfc1e
-    time: 1781021447
+    hash: 4b8cccf7d05e3400219f7018dc95bb4006c18f76
+    time: 1783106230
   -
     path: /assets/modules/game_gamepass/gamepass.klua32
-    hash: 5de5547a183ef408735dc27743f0ceaeeeaaeba7
-    time: 1781021447
+    hash: becfa4db702f3128ed7a330cec9128d4d8d0f669
+    time: 1783106230
   -
     path: /assets/modules/game_gamepass/gamepass.klui
     hash: 6526de602a59169296ecc8efb670fe1c24e3d932
@@ -20612,6 +20660,10 @@ assets:
     path: /assets/modules/game_gamepass/themes/images/newserver/rewardmultiple.kpng
     hash: c74377b1f4b5647f1c0ae7a378af1bf3a4121f90
     time: 1778628019
+  -
+    path: /assets/modules/game_gamepass/themes/images/newserver/snow_server.kpng
+    hash: 240dd3bdce2a5bc068031ae4b1dabce34c8a2138
+    time: 1783106230
   -
     path: /assets/modules/game_gamepass/themes/images/raichuHalloween.kpng
     hash: 5426ca7cb1294fd4dc9905a7235e0a2abe942d8e
@@ -24050,16 +24102,16 @@ assets:
     time: 1778628020
   -
     path: /assets/modules/game_minimap/minimap.klua
-    hash: a409232ca759d1459c24a6e64442f0f77ddd2bb2
-    time: 1782573508
+    hash: 9bb64b08e9fc622dff3d5135e7c49f226fc575b4
+    time: 1783106230
   -
     path: /assets/modules/game_minimap/minimap.klua32
-    hash: c4f60853e4aad02ea4d57315df4a6ceebd85df38
-    time: 1782573508
+    hash: 27b31d889d7cb7baa36988e29d9bb562e35dba27
+    time: 1783106230
   -
     path: /assets/modules/game_minimap/minimap.klui
-    hash: 968bd7eda3a2217bad4064de8b159bf7cdbf0511
-    time: 1778628020
+    hash: 522188f363d54f4e9fa2b9893fdb7b10f67a9ad2
+    time: 1783106230
   -
     path: /assets/modules/game_mtsilver/images/background.kpng
     hash: 0da44a594342e2aa7f22c9ec1f610a47f078bb62
@@ -24118,12 +24170,12 @@ assets:
     time: 1778628020
   -
     path: /assets/modules/game_nightmare/nightmare_brotherhood.klua
-    hash: c7f39937cc819d2165a8c06357712811cbc0a523
-    time: 1782573508
+    hash: 87891d53af59fe4be81367257854731d031d14d4
+    time: 1783106230
   -
     path: /assets/modules/game_nightmare/nightmare_brotherhood.klua32
-    hash: e89b4d06dbe6e061d79aae2f0df3042328d2434a
-    time: 1782573508
+    hash: 9010ea9c7fd676ebfbafd0efae5ae44e80e941eb
+    time: 1783106230
   -
     path: /assets/modules/game_nightmare/nightmare_stats.klua
     hash: 0a62af2f54f167aeb3ab5f2e6ec7978f85af325d
@@ -24142,8 +24194,8 @@ assets:
     time: 1782573508
   -
     path: /assets/modules/game_nightmare/widgets/boardBrotherhood.klui
-    hash: 5254747336305e2f2a6b494d2262aaab01cb8adc
-    time: 1778628020
+    hash: 4b530a20129a3140d9de15e7ff75edcd656b3c2a
+    time: 1783106230
   -
     path: /assets/modules/game_nightmare/widgets/brotherhood_images/city/legendary.kpng
     hash: 5c45025cca51a949ddff3ebfc59c439388478e19
@@ -25734,16 +25786,16 @@ assets:
     time: 1782573509
   -
     path: /assets/modules/game_questlog/questlog.klua
-    hash: a50b1dd1cbaa9b0c1272253121dcaf07537e789d
-    time: 1782573509
+    hash: c383ed81ea52157032315afce45fec40da9148fc
+    time: 1783106230
   -
     path: /assets/modules/game_questlog/questlog.klua32
-    hash: 6e3cf22ea9bdaf1428d917b3bb4cb05666c53b86
-    time: 1782573509
+    hash: 89ea7e98185dc528e603c36f4a712d3eae1408bf
+    time: 1783106230
   -
     path: /assets/modules/game_questlog/questlog.klui
-    hash: eba59c3aae12dab86d1d0dbea9f018262a119876
-    time: 1782573509
+    hash: c5fd5102ad0fb65e2dd7d541d3f5fff57ba17300
+    time: 1783106230
   -
     path: /assets/modules/game_questlog/tracker.klua
     hash: a6be4d91b46c23c120915a3f6c40cdcd9f70ac4e
@@ -26530,8 +26582,8 @@ assets:
     time: 1778628020
   -
     path: /assets/modules/game_topmenu/topmenu.klui
-    hash: 72d97eb318a1dca78344921348b3f025a6526c3f
-    time: 1778629487
+    hash: 2ea9f0c7582c184292a77f3585c8c4b9868d10dd
+    time: 1783106230
   -
     path: /assets/modules/game_tower/images/floors/floor1.kpng
     hash: 746d2aca7f38c5dedcf5feb1df35d01a2f8cc109
@@ -28002,12 +28054,12 @@ assets:
     time: 1778628020
   -
     path: /assets/modules/gameui/uigamemap.klua
-    hash: 38f4e72fee068cbdb6f7a110c0805deb31221f16
-    time: 1778628020
+    hash: 0ee6d9836747e8fa72262b883dbd4e01641793ff
+    time: 1783106230
   -
     path: /assets/modules/gameui/uigamemap.klua32
-    hash: 43f4ac702ba814298c6aa60c9f8b4ed44eaddac6
-    time: 1778628020
+    hash: 5ccde66a3f4937b97083a450aeb5b8f974b0e2af
+    time: 1783106230
   -
     path: /assets/modules/gameui/uigamewatchmap.klua
     hash: 198141d9ba3a3daab5d8cc04c58aba41fd726232
@@ -28026,12 +28078,12 @@ assets:
     time: 1778628020
   -
     path: /assets/modules/gameui/uiitem.klua
-    hash: a6834d62512dd2f9dad8c2f255d1701e7882bb5b
-    time: 1778628020
+    hash: 61cde23fab0eeb93b738d1e79cf5ab9f9de7ce61
+    time: 1783106230
   -
     path: /assets/modules/gameui/uiitem.klua32
-    hash: b3f233933e15e5c9addeb360c80d890ab6bce762
-    time: 1778628020
+    hash: 41705ef6fb10bc9cc1e2dd8e760bc642b5e7cee2
+    time: 1783106230
   -
     path: /assets/modules/gameui/uilegacytable.klua
     hash: 4a6ad94dc889668dcec66979f1f9df54292b726e
@@ -28050,12 +28102,12 @@ assets:
     time: 1778628020
   -
     path: /assets/modules/gameui/uiminimap.klua
-    hash: 8150db4156d2a13e177bd7fb84f696acd1d69a69
-    time: 1782573509
+    hash: 1b25646c14ac2cf2bf8c77e5bc39b97c0141edff
+    time: 1783106230
   -
     path: /assets/modules/gameui/uiminimap.klua32
-    hash: aa876488870c51de89c01675e746d2afc8717b5d
-    time: 1782573509
+    hash: 6b52a12ef7de6f497da119111f9b719a67cc509b
+    time: 1783106230
   -
     path: /assets/modules/gameui/uimovepopup.klua
     hash: caedf6c4c887dc5cd953860a4cafc3fd2b57ffb2
@@ -28130,24 +28182,24 @@ assets:
     time: 1778628020
   -
     path: /assets/modules/menu_characters/avatars.klua
-    hash: 9ccf5725c83bc79cb6398ca27838345d4981d7f2
-    time: 1781021447
+    hash: 6a816021610e86d05ebcb0a1e296c4480fa32e9a
+    time: 1783106230
   -
     path: /assets/modules/menu_characters/avatars.klua32
-    hash: e64bbba2df7b25c7cc308d696e1a442a41b20d40
-    time: 1781021447
+    hash: c24998d822ce1bad0dad6d3249b8f150a17f552e
+    time: 1783106230
   -
     path: /assets/modules/menu_characters/images/advertising.kpng
-    hash: 9baad0ce00bc0c4ed9e40a5e76e61889f601df82
-    time: 1778628020
+    hash: 3f062e39639fe73f2dd1c56740cfd13962ed07db
+    time: 1783106230
   -
     path: /assets/modules/menu_characters/images/advertising2.kpng
-    hash: 6774648e1a9451c3e9e0559be7d05af8f735b82f
-    time: 1778628020
+    hash: a07eb3934aca2c6c53bb09a2e8d00c4c3919e12e
+    time: 1783106230
   -
     path: /assets/modules/menu_characters/images/icon.kpng
-    hash: efd8aa6774bbbee62f29b232a8685f5bb7bed7cc
-    time: 1778628020
+    hash: e13a6ba71e69cfab4fddb97ca160b7db6dc51c00
+    time: 1783106231
   -
     path: /assets/modules/menu_characters/images/johto/hooh.kpng
     hash: 82e8043459772d8c452760d47214807c93ac2d22
@@ -28182,20 +28234,20 @@ assets:
     time: 1778628020
   -
     path: /assets/modules/menu_characters/images/mote.kpng
-    hash: a794d4fd3a000ece77cf2584132b08add0dd7bc8
-    time: 1778628020
+    hash: 8016335a648fb2eeca47fa185e95e1f4ad12d494
+    time: 1783106231
   -
     path: /assets/modules/menu_characters/images/premium.kpng
-    hash: 5ee4e8141b9c8a98f8563faf20936362dcbe40c5
-    time: 1778628020
+    hash: c7d847664a2b71e05b48d8c2e768b2c30597f76e
+    time: 1783106231
   -
     path: /assets/modules/menu_characters/images/rookie.kpng
-    hash: c9b6d1a36a3bcbe80e54b17d46414e6507e94bda
-    time: 1778628020
+    hash: d6d4e722509a93b8affe1437ff8dc10700072258
+    time: 1783106231
   -
     path: /assets/modules/menu_characters/images/trainer.kpng
-    hash: 2922dc8b6e1834e3b1d5321a0b3c0efc9110672e
-    time: 1778628020
+    hash: b1090fd4ec7a662a442778fe39b8020762a1170a
+    time: 1783106231
   -
     path: /assets/modules/menu_characters/johto.klua
     hash: d4247c6b0ff128a9040fbc5e1c0e6200f295a461
@@ -28214,12 +28266,12 @@ assets:
     time: 1778628020
   -
     path: /assets/modules/menu_characters/menu_characters.klua
-    hash: be2f550b80d5cead32c4c9233c781bdf581608c6
-    time: 1782573509
+    hash: f19ba9e5ae3f31535392ccaf971b2c84a120438f
+    time: 1783106231
   -
     path: /assets/modules/menu_characters/menu_characters.klua32
-    hash: 665695f4fd93ddcf8e8b01a6005bafb3c088077c
-    time: 1782573509
+    hash: b9817436f16f7c346ecf456b2eab1b17b2b49dcb
+    time: 1783106231
   -
     path: /assets/modules/menu_characters/menu_characters.klui
     hash: 7a6c5674ff0e438677d642c4bc9f8fef2512d70c
@@ -28230,12 +28282,12 @@ assets:
     time: 1778628020
   -
     path: /assets/modules/menu_characters/tg_menu.klua
-    hash: 978467054ed9388c3235c24b70a73bbf3b9c0da7
-    time: 1778628020
+    hash: 8ddd9b10da289f4b2b603a15b3750299d51416cb
+    time: 1783106231
   -
     path: /assets/modules/menu_characters/tg_menu.klua32
-    hash: f17a57c067e8dfca67db48546352bb146138f215
-    time: 1778628020
+    hash: d788f44008c2e095535b96d55fc7b17270d2c5fa
+    time: 1783106231
   -
     path: /assets/modules/menu_characters/tg_menu.klui
     hash: d04361296064d3652ee4c7ae1475225f0c4062d5
@@ -28598,12 +28650,12 @@ assets:
     time: 1778628020
   -
     path: /assets/modules/menu_updater/menu_updater.klua
-    hash: a2b10d15996e11d04d39441890ffca5f4273da86
-    time: 1782163201
+    hash: 345f3bb51decb85c0b77a4bc989609a63b452e72
+    time: 1783106231
   -
     path: /assets/modules/menu_updater/menu_updater.klua32
-    hash: 8aaf9fb384dafe9b9ee4ff2ad9c0bcd563a4facb
-    time: 1782163201
+    hash: b1ab3fb90e4e607041522b63bacf5359e287abae
+    time: 1783106231
   -
     path: /assets/modules/menu_updater/menu_updater.klui
     hash: 5c429f8cbe6260fa07219fd11fdb2972013c2b5c
@@ -28850,12 +28902,12 @@ assets:
     time: 1778628020
   -
     path: /assets/modules/stdlib/string.klua
-    hash: 85d95639a6ee9473a5021c9b33e879bd1b1d6d08
-    time: 1778628020
+    hash: 106b2cf5972c23ccafbbdaf4e660cc9daba3a917
+    time: 1783106231
   -
     path: /assets/modules/stdlib/string.klua32
-    hash: 67bfa4fece8b897894f2cb05ebc0c267c447a5cb
-    time: 1778628020
+    hash: 405c4c466eaeb7b2e22aa16bab908a9cf29d49f4
+    time: 1783106231
   -
     path: /assets/modules/stdlib/table.klua
     hash: fa6f1ffe57e34abc8361ad52e767442ba7f624f1
@@ -33922,12 +33974,12 @@ assets:
     time: 1778628021
   -
     path: /assets/things/things.kdat
-    hash: 3ff9c094d7d437e1b2476c5834735a42a828f9b7
-    time: 1782573511
+    hash: 86c20494e85b7e5317c8d4f25d841395f9bd2158
+    time: 1783106232
   -
     path: /assets/things/things.kidx
-    hash: c4b57bdd574fa22794829aea47e4f671f4bafa5d
-    time: 1782573511
+    hash: 34ca268471c11de3a190e7d45ce389aecb324c75
+    time: 1783106232
   -
     path: /assets/things/things.klua
     hash: 69f92e199ea35c0cd0e1428bc961e98e4e90a44a
@@ -33986,8 +34038,8 @@ assets:
     time: 1781021449
   -
     path: /assets/things/things2.spr
-    hash: ab3d72ef018218f7c7f498f5cf43f365d76bc28a
-    time: 1781021449
+    hash: fd29bbc3a55f634a3aec3127d581b3a440af0b8a
+    time: 1783106233
   -
     path: /assets/things/things20.spr
     hash: c64dab1062fa9b6935544e63a2c5e67cef14c40c
@@ -34058,8 +34110,8 @@ assets:
     time: 1781021450
   -
     path: /assets/things/things36.spr
-    hash: d70df1015d2d7752aaade0e3d79065bd8331f386
-    time: 1781021450
+    hash: 142ad41e415f7ab4e8d200f444a4bf06380e92df
+    time: 1783106233
   -
     path: /assets/things/things37.spr
     hash: 74f47dd8785b6505b11b69a362495313d53f23c1
@@ -34078,8 +34130,8 @@ assets:
     time: 1781021450
   -
     path: /assets/things/things40.spr
-    hash: c616bd7e04b65821d6ba7b2805883ce796da4173
-    time: 1782573516
+    hash: d141af2c1274fcd910e3ce188f856f3b923dff2a
+    time: 1783106233
   -
     path: /assets/things/things5.spr
     hash: d1e4ff57a567cef6e94644e7cd141c25ccb9aa15
@@ -34114,12 +34166,12 @@ assets:
     time: 1778628022
   -
     path: /pxgme-linux
-    hash: d7e97a2bb1286c210938d20b06f30df38bcf0a47
-    time: 1782573518
+    hash: 6cdbb07af2760803821ddbe38dbe3f211f844be5
+    time: 1783106235
   -
     path: /pxgme.exe
-    hash: cd3b4748fd78a627bfc09ddbb475b45e00f20e42
-    time: 1782573521
+    hash: 6b36a21ae9e058febed140a900a183d009924845
+    time: 1783106236
   -
     path: /win32/d3dcompiler_47.dll
     hash: 76012f31db8618624bc8b563698b2669365e49cb
@@ -34134,7 +34186,7 @@ assets:
     time: 1778628022
   -
     path: /win32/pxgme32.exe
-    hash: c0d7dd4e2b42c9a1cf316af0680e5cf73cbfed57
-    time: 1782573523
-hash: fb31449fc2e2f34a423f033cf556039f1425e390
-date: 1782556396
+    hash: bf56634dbc5f7cd53e247e20141d6ab70e31d65a
+    time: 1783106237
+hash: d799a1dc181254a62b4078bdcdd6fed736cfa82c
+date: 1783074678
