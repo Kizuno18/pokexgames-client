@@ -2,8 +2,8 @@ indexname: pxgmeclient
 assets:
   -
     path: /assets/appbuild.krev
-    hash: d4c07611f694af33dd79a3248ba13ca01e76dbb9
-    time: 1783939281
+    hash: 964c17fbc3a33742bf9e8077f51d9d8765b9131a
+    time: 1784151830
   -
     path: /assets/appicon.kpng
     hash: 1c32be9955d3f73f14f687796fbe635688d677ad
@@ -1026,12 +1026,12 @@ assets:
     time: 1778628019
   -
     path: /assets/images/avatars/arcade2026_01.kpng
-    hash: fb17c35ff48721798fbb4f3234d675042c44b612
-    time: 1782163200
+    hash: e142cd113c4dec64ba25008387ab796e17b4721c
+    time: 1784151830
   -
     path: /assets/images/avatars/arcade2026_02.kpng
-    hash: 74add212c5c451f3003579b19010339d98bb0da7
-    time: 1782163200
+    hash: ed6facc382bed481cba9e952e8d15f86e6f800a0
+    time: 1784151830
   -
     path: /assets/images/avatars/c1.kpng
     hash: f9f432932a884d58865a4811b2a0148277f5fe0c
@@ -6238,20 +6238,20 @@ assets:
     time: 1778628019
   -
     path: /assets/images/avatars/valentines2026_01.kpng
-    hash: e252d27d19fff0bb7255d29cc58a9a05790858ed
-    time: 1781021427
+    hash: a4e1dfa872d67f237422ef3bc12d5d3af6318456
+    time: 1784151830
   -
     path: /assets/images/avatars/valentines2026_02.kpng
-    hash: aae3121c3216ea0180edf9c67a509806af5f559d
-    time: 1781021427
+    hash: c4d41e3082acbc5cdf3c2ecdaf6b73b89b51043f
+    time: 1784151830
   -
     path: /assets/images/avatars/wintertime_01.kpng
-    hash: d2a55f80781f7db5606f8fb457dfe9032917cabf
-    time: 1783106229
+    hash: 0ff3ce2aeba47883dca64f8a48a1092c5d5be6ee
+    time: 1784151830
   -
     path: /assets/images/avatars/wintertime_02.kpng
-    hash: 6743dd44c9857e11e34eb70d94b91614d3476376
-    time: 1783106229
+    hash: a3751ee1919981d8b2e88b755880efe3f5342b59
+    time: 1784151830
   -
     path: /assets/images/background/hd.kpng
     hash: 7e0a0b8c0d0881cc770617f2bfdb8a6460f2b894
@@ -18398,12 +18398,12 @@ assets:
     time: 1783362524
   -
     path: /assets/locales/context.klua
-    hash: 3c0e47af66d1996883003d06c200bd5d88706588
-    time: 1783939281
+    hash: 605f3b3a71c9c331c5dfe291986f01a4c8253ab4
+    time: 1784151830
   -
     path: /assets/locales/context.klua32
-    hash: 56aed698df5806192c3a726ea421339d16387445
-    time: 1783939281
+    hash: 5529a6ac5e777ed8fc8bdbb407414f90fe94e5c7
+    time: 1784151830
   -
     path: /assets/locales/en-us.klua
     hash: d021fc507b4577d7972db2224943163ab1b91a7f
@@ -18414,28 +18414,28 @@ assets:
     time: 1778628019
   -
     path: /assets/locales/es-419.klua
-    hash: b0b9b6e9dbfc4ddfbd29f8e43f071d68bc37079f
-    time: 1783106229
+    hash: 262c3c6f6d840d7b89ffe4c47bf8e0c83d1d5882
+    time: 1784151830
   -
     path: /assets/locales/es-419.klua32
-    hash: e76a304cf018bdd3a920506f911d719eba0ecc15
-    time: 1783106229
+    hash: 1b062a42ec4c3704eb9deae2944549ef8ad7f7d0
+    time: 1784151830
   -
     path: /assets/locales/pl-pl.klua
-    hash: decda4414e4bf866a1b3d2c81dd7e9f85d054041
-    time: 1783106230
+    hash: bd419ebae50405a81f0b61ce4d6446f024d98b14
+    time: 1784151830
   -
     path: /assets/locales/pl-pl.klua32
-    hash: 338997c53439c5769cce5e60d083d75b80c996f3
-    time: 1783106230
+    hash: 2f760f706e6d9323b2e47eab36d2e2b069f11e58
+    time: 1784151830
   -
     path: /assets/locales/pt-br.klua
-    hash: fb33374b9147d8ef6487ad40710417037db67f38
-    time: 1783106230
+    hash: 505716668648ccfb6c9926b9cac35e2a2ed3d654
+    time: 1784151830
   -
     path: /assets/locales/pt-br.klua32
-    hash: 10f1962e540e5df4ce375f21689cb7a60e68d5df
-    time: 1783106230
+    hash: 5739eea942b4ffdb63f296ed46c42aef110bdf66
+    time: 1784151830
   -
     path: /assets/modules/discord/discord.klmod
     hash: f0cae91812b1421456da86b313099be4ae6c7d1b
@@ -22646,12 +22646,12 @@ assets:
     time: 1778628020
   -
     path: /assets/modules/game_join_dungeon/join_dungeon.klua
-    hash: 261594ca125f2428d16e5664a0883981f5be7cab
-    time: 1781830581
+    hash: e5865483759a2d88681d5d6699abf35e2b1d9175
+    time: 1784151830
   -
     path: /assets/modules/game_join_dungeon/join_dungeon.klua32
-    hash: e863f0c0f7ae5e9460ab73a3978ebda87b70052a
-    time: 1781830581
+    hash: f8fbcf039bd2cec3da1dec246c60b0fddc04a0bb
+    time: 1784151830
   -
     path: /assets/modules/game_join_dungeon/join_dungeon.klui
     hash: 1dd0728c245ddcf34ce4d048ac1d014106566404
@@ -22890,8 +22890,8 @@ assets:
     time: 1778628020
   -
     path: /assets/modules/game_management/management.klui
-    hash: dc630c867029607a476a72275f4d47d39ae20745
-    time: 1778628020
+    hash: 2f651fe9e143c90086eba3a0eec562ca9bb4f005
+    time: 1784151830
   -
     path: /assets/modules/game_market/blacklist.klui
     hash: dd5fa400c8a05e22ae548ed7b67b904aef9ffcb5
@@ -26654,12 +26654,12 @@ assets:
     time: 1778628020
   -
     path: /assets/modules/game_tutorial/const.klua
-    hash: 1be81ac0e36de4bcf3feee5409315ba15f9346d6
-    time: 1778628020
+    hash: 49fa7e9106908faf441e4fd8d6e1a4382432a21c
+    time: 1784151830
   -
     path: /assets/modules/game_tutorial/const.klua32
-    hash: ec04dab1054b64179437f42537f264c6969af6dc
-    time: 1778628020
+    hash: 150f7c3b4da8883f499eff02c61e08e8306dbca9
+    time: 1784151830
   -
     path: /assets/modules/game_tutorial/imgs/a1.kpng
     hash: 231e70f2b97f742ab6b6a0ac74b54e96fac069c5
@@ -27810,8 +27810,8 @@ assets:
     time: 1781830581
   -
     path: /assets/modules/game_worldcup_album/worldcup_album.klui
-    hash: 82cc05601f37226b6b5beee40265dbb59449b2db
-    time: 1778628020
+    hash: 78549e0cc9d9bcec6dd88c021980abc90b597fb8
+    time: 1784151830
   -
     path: /assets/modules/gamelib/account.klua
     hash: e79c9d96e735e82e69024b72211771a4a0b7734e
@@ -28186,12 +28186,12 @@ assets:
     time: 1778628020
   -
     path: /assets/modules/menu_characters/avatars.klua
-    hash: 6a816021610e86d05ebcb0a1e296c4480fa32e9a
-    time: 1783106230
+    hash: e3a46337abb65fa48da39e5b69a08e4cc5998b70
+    time: 1784151830
   -
     path: /assets/modules/menu_characters/avatars.klua32
-    hash: c24998d822ce1bad0dad6d3249b8f150a17f552e
-    time: 1783106230
+    hash: c486bd69fb9638e7d3a1fb2463eb46098eea2289
+    time: 1784151830
   -
     path: /assets/modules/menu_characters/images/advertising.kpng
     hash: 3f062e39639fe73f2dd1c56740cfd13962ed07db
@@ -29198,12 +29198,12 @@ assets:
     time: 1778628020
   -
     path: /assets/modules/uilib/uiprogressbar.klua
-    hash: 324cbc4db69b2529aea5c0b9a624e9d4bc536591
-    time: 1778628020
+    hash: d7e9540bc7eb522d4813419baa118f4f1df7c72a
+    time: 1784151830
   -
     path: /assets/modules/uilib/uiprogressbar.klua32
-    hash: 781eb22674e26a5efbb66288a1614820229ceb99
-    time: 1778628020
+    hash: 5f9acd41cb794d8ab2956506aee361206b20965a
+    time: 1784151830
   -
     path: /assets/modules/uilib/uiprogresscircle.klua
     hash: 0e0e7afb5ae35845372172ef5036078a9ecb1b25
@@ -34170,12 +34170,12 @@ assets:
     time: 1778628022
   -
     path: /pxgme-linux
-    hash: 87011e9bb4a57bf68806ba2fe51450c76baed46d
-    time: 1783939283
+    hash: 86987af3603038fa9e29026566af88a1145f4f5b
+    time: 1784151831
   -
     path: /pxgme.exe
-    hash: 15346c0f58c7b162b34f074a8262cdd56c4a6f06
-    time: 1783939285
+    hash: 590518a4528669cf9b51de1dee14961cf57e87c5
+    time: 1784151832
   -
     path: /win32/d3dcompiler_47.dll
     hash: 76012f31db8618624bc8b563698b2669365e49cb
@@ -34190,7 +34190,7 @@ assets:
     time: 1778628022
   -
     path: /win32/pxgme32.exe
-    hash: d2bc67cd9dc76c5b88f12167cbf6cbe015859342
-    time: 1783939286
-hash: e3dcc59a112315d1e61714857408487a20410714
-date: 1783679567
+    hash: 3a4b466212982b97a9790b20665a9853666f3177
+    time: 1784151832
+hash: 82ba6403a7014354a7e36db7da0ebe5e03b7ccb4
+date: 1784111503
