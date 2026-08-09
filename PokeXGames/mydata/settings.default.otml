@@ -21,7 +21,7 @@ showHealthBars: true
 adjustNameBar: false
 showPlayerSkull: false
 showNpcNameBlue: false
-displayTextMessages: false
+displayTextMessages: true
 showPrivateMessagesOnScreen: false
 maximumMonsterTextMessages: 10
 enableLight: false
