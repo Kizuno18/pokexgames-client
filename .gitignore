@@ -17,3 +17,5 @@ PokeXGames/*.bak
 !.dockerignore
 !.gitattributes
 !.gitignore
+PokeXGames/mydata/settings.default.otml
+

@@ -2,8 +2,8 @@ indexname: pxgmeclient
 assets:
   -
     path: /assets/appbuild.krev
-    hash: 3a186aeacd5b2ebb2136bbf725c90f0d1ea96112
-    time: 1786035652
+    hash: 4416b3ef014b5034da9405f22382fed83cabc96e
+    time: 1786222518
   -
     path: /assets/appicon.kpng
     hash: 1c32be9955d3f73f14f687796fbe635688d677ad
@@ -18446,12 +18446,12 @@ assets:
     time: 1783362524
   -
     path: /assets/locales/context.klua
-    hash: 82d78a98ca3398a44ecafa55876018b87cf00bb2
-    time: 1786035652
+    hash: 1067e6d3bd9beeb93a05e2badb006a85cb73b4c9
+    time: 1786222518
   -
     path: /assets/locales/context.klua32
-    hash: 77c840245866f83ed7daa266eafa0d6f6dc50868
-    time: 1786035652
+    hash: 1de04913811931a321a8feedd36c5aabccf38821
+    time: 1786222518
   -
     path: /assets/locales/en-us.klua
     hash: d021fc507b4577d7972db2224943163ab1b91a7f
@@ -22930,12 +22930,12 @@ assets:
     time: 1778628020
   -
     path: /assets/modules/game_management/management.klua
-    hash: 9d990127f1c3073b9103be7d4cf398ae258a454e
-    time: 1778628020
+    hash: 76bcfb50b568acb6015074856862d13c7820340f
+    time: 1786222518
   -
     path: /assets/modules/game_management/management.klua32
-    hash: 0eecc8984ebc3c5f4090419e03fe5aa5185d5372
-    time: 1778628020
+    hash: 4ad5735a05edb5f953d02d4a881a67c7cf891c67
+    time: 1786222518
   -
     path: /assets/modules/game_management/management.klui
     hash: 2f651fe9e143c90086eba3a0eec562ca9bb4f005
@@ -34242,12 +34242,12 @@ assets:
     time: 1778628022
   -
     path: /pxgme-linux
-    hash: e696dc345f494f647a986ede88efab741f7ace64
-    time: 1785517104
+    hash: 8df35ba10ef1bf6fcfecd3fef174853c78a4a40a
+    time: 1786222520
   -
     path: /pxgme.exe
-    hash: 6ab6872cc6347dd391d00d541e005c833cf034b9
-    time: 1785517105
+    hash: 55ec51655d771d308b3dc2c88567412a4980ed8b
+    time: 1786222521
   -
     path: /win32/d3dcompiler_47.dll
     hash: 76012f31db8618624bc8b563698b2669365e49cb
@@ -34262,7 +34262,7 @@ assets:
     time: 1778628022
   -
     path: /win32/pxgme32.exe
-    hash: b70b00315829b8b15fb02749512d1bc4dbc7dec6
-    time: 1785517106
-hash: 77d943967d53df5be3ec4ff74f0c7d48756b3633
-date: 1786012284
+    hash: 229d622504405c75e6e1ce7d6ecd0090bdd69123
+    time: 1786222522
+hash: 8ed4b80175baf2d538e799998371ccdaa9319231
+date: 1786185198
