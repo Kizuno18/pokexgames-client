@@ -162,9 +162,6 @@ actions-slots-info:
 game_usedballs:
   hideCaughtPokemon: false
   showAll: true
-moves-pos:
-  y: 886
-  x: 775
 leftClickAction: 1
 hotkeys-minigame-music:
 npc-trade-quick-sell-block:
