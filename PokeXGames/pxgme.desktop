@@ -1,0 +1,15 @@
+#!/usr/bin/env xdg-open
+[Desktop Entry]
+Categories=Game;
+Comment=PokeXGames
+Encoding=UTF-8
+Exec="/home/kizudev/Documents/Repos/pokexgames-client/PokeXGames/pxgme-linux"
+Icon=/home/kizudev/Documents/Repos/pokexgames-client/PokeXGames/assets/pxgmeclient.png
+Terminal=false
+StartupNotify=true
+StartupWMClass=pxgme-linux
+Keywords=game;
+Name=PokeXGames
+Terminal=false
+Type=Application
+Value=1.0
