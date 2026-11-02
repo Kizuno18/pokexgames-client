@@ -2,8 +2,8 @@ indexname: pxgmeclient
 assets:
   -
     path: /assets/appbuild.krev
-    hash: 1113284b8c2e55eee71ee53b54ba62f00265c63c
-    time: 1793294916
+    hash: 1d5017d82e758fb793575d8258cc71fe23483cd5
+    time: 1793660954
   -
     path: /assets/appicon.kpng
     hash: 1c32be9955d3f73f14f687796fbe635688d677ad
@@ -2361,6 +2361,14 @@ assets:
     hash: 6f31194fa5eef8a6291db000879e6056d2369d5f
     time: 1778628019
   -
+    path: /assets/images/avatars/gamepass_halloween2026_01.kpng
+    hash: 116548f4ad24f99c253e548d90c64095c64dc640
+    time: 1793660954
+  -
+    path: /assets/images/avatars/gamepass_halloween2026_02.kpng
+    hash: 4046e6d0289c2ed994816670f3446a2d6d7e6a5a
+    time: 1793660954
+  -
     path: /assets/images/avatars/halloween2026_01.kpng
     hash: 8f3f45951e007377e84c39418cb3aeeb0e996847
     time: 1793053009
@@ -4688,6 +4696,14 @@ assets:
     path: /assets/images/avatars/rounded/common_ex94.kpng
     hash: 18fd86e0678f70a0e034ecdfd180bd0e0761bd07
     time: 1778628019
+  -
+    path: /assets/images/avatars/rounded/gamepass_halloween2026_01.kpng
+    hash: 70b2f7c3c4c7bdc6cb558affb7e8349f59c6acda
+    time: 1793660954
+  -
+    path: /assets/images/avatars/rounded/gamepass_halloween2026_02.kpng
+    hash: 06fd819b9e95331fc772d432e361ffd90b04cf57
+    time: 1793660954
   -
     path: /assets/images/avatars/rounded/halloween2026_01.kpng
     hash: d89b88d9cf17924a8905c787d577defcfd76ddbc
@@ -18654,12 +18670,12 @@ assets:
     time: 1793294917
   -
     path: /assets/locales/context.klua
-    hash: f5c8ca2f0a2449588ddbd2a76a4b58ddeace5a7e
-    time: 1793294917
+    hash: 2942628d458f3609563ad040603a56018b77fe25
+    time: 1793660954
   -
     path: /assets/locales/context.klua32
-    hash: 0cefe0a0b4df1159a0ca2ad3e1ed59d1f577c2c9
-    time: 1793294918
+    hash: be0c35e36da82c9b694fe396ed880bd755cc82cb
+    time: 1793660954
   -
     path: /assets/locales/en-us.klua
     hash: 8db124f23889cfac9a36e6da2d61d8d069010460
@@ -19566,12 +19582,12 @@ assets:
     time: 1786892626
   -
     path: /assets/modules/game_containers/container.klua
-    hash: 553cfb226da3e8b3cadc54c41fc4b2b37d425a35
-    time: 1793294918
+    hash: b7cd1f32b4eaa619d3e58b12ff56edd46c61f3ee
+    time: 1793660954
   -
     path: /assets/modules/game_containers/container.klua32
-    hash: 2ee6ece498b4a7b984d0f7e583eb59bf0794b653
-    time: 1793294918
+    hash: 5d7b18a9ec3835b5d3468f26344907f80434cec0
+    time: 1793660954
   -
     path: /assets/modules/game_containers/container.klui
     hash: ad1e5ea377ac0f0ec5353ad7dafa5ae98087ff43
@@ -19634,12 +19650,12 @@ assets:
     time: 1786892626
   -
     path: /assets/modules/game_creature/creature.klua
-    hash: 71fe832b2dfeea6503e7bd6fd3ef2a3c2e9a60a4
-    time: 1790903449
+    hash: a84024af5a5d2a1e610f1620780476b475668aa3
+    time: 1793660954
   -
     path: /assets/modules/game_creature/creature.klua32
-    hash: 3305593ef36bf337983f90187eb9203332370841
-    time: 1790903449
+    hash: 283bf26563459f7cecfc69de4729a2eb332405b6
+    time: 1793660954
   -
     path: /assets/modules/game_creature/creature.klui
     hash: c7095154286b72b1db41126a9141fc5e14e41d2b
@@ -34418,12 +34434,12 @@ assets:
     time: 1792169398
   -
     path: /assets/things/things.kdat
-    hash: 46a0cbea17b33f1fdcc976470c981126f4fdf5db
-    time: 1793294922
+    hash: daba1aaddf80706213a0092ac71cb94e7e2be300
+    time: 1793660955
   -
     path: /assets/things/things.kidx
-    hash: 385b93e4a15b44d26f361a8bd350e6719745c8ef
-    time: 1793294922
+    hash: 11af08748160bc6e6116ffb37fb8b1eaed0bf937
+    time: 1793660955
   -
     path: /assets/things/things.klua
     hash: 69f92e199ea35c0cd0e1428bc961e98e4e90a44a
@@ -34530,8 +34546,8 @@ assets:
     time: 1792602574
   -
     path: /assets/things/things30.spr
-    hash: 49490d18b94fa4198280370900d77e28dee32c86
-    time: 1793053042
+    hash: 28d5a0fb172d6af1f7878f6fc20bfc5da530610c
+    time: 1793660955
   -
     path: /assets/things/things31.spr
     hash: 71a20f3129ee458c6911729c1cf543f4d1ea7e0f
@@ -34570,20 +34586,20 @@ assets:
     time: 1793294922
   -
     path: /assets/things/things4.spr
-    hash: de1af932ede1fe3a85e6879060f5987a4e9b1a4f
-    time: 1793294923
+    hash: 9cbc113a47ccb3774eacdab877588b1a47c8b9c8
+    time: 1793660956
   -
     path: /assets/things/things40.spr
     hash: 3bb255651d0976f2b0c813d974aa02f44bfd2a9b
     time: 1789872961
   -
     path: /assets/things/things41.spr
-    hash: 648a1eab51ac2851b6576a148369960564457e2e
-    time: 1793294924
+    hash: 80ec6c790353399124caaef304d74d3d92f6170b
+    time: 1793660956
   -
     path: /assets/things/things5.spr
-    hash: 92baa50f858a9648714d4ada28353b8840eeff97
-    time: 1793053060
+    hash: 9330be1ced785f1f25db57ba595aa3043ca328ab
+    time: 1793660956
   -
     path: /assets/things/things6.spr
     hash: 9dacba7326c4666441048816d670f905b56d3ae1
@@ -34614,12 +34630,12 @@ assets:
     time: 1778628022
   -
     path: /pxgme-linux
-    hash: c24f4b828eafb38287c412bfb4285059f2c43208
-    time: 1793294932
+    hash: 6b69d646dbcdf852067f5346b42733efc1d6ac94
+    time: 1793660957
   -
     path: /pxgme.exe
-    hash: e95c954704c7c2bf3321d8ce1d313ec7c51d32dd
-    time: 1793294937
+    hash: a9adae8871402b5cab790276f4ad3d2091b5434b
+    time: 1793660957
   -
     path: /win32/d3dcompiler_47.dll
     hash: 76012f31db8618624bc8b563698b2669365e49cb
@@ -34634,7 +34650,7 @@ assets:
     time: 1778628022
   -
     path: /win32/pxgme32.exe
-    hash: 57669908823767f0462d5ac1e3192c6a3db47b32
-    time: 1793294941
-hash: b02c360d24f00bc26715fc373d9cbb9c0fab5bb4
-date: 1793269937
+    hash: ebfb13c5ce5f5237498e9382bc06c73eb24410d6
+    time: 1793660958
+hash: ff2b1f188d7539f07c15554918d99feee5a3c294
+date: 1793529074
